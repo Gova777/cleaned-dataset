@@ -1,0 +1,951 @@
+Customer ID,Full Name,Email,Phone,Signup Date,Country,City,Age,Gender,Payment Method,Order Status,Order Amount (USD)
+C0001,Sneha Sharma,sneha.sharma18@gmail.com,7863794026,07-03-2022,UK,London,30,Male,UPI,Completed,49.55
+C0002,Kavya Gupta,kavya.gupta6@yahoo.com,8341928327,26-07-2022,USA,Seattle,23,Female,UPI,Pending,573.29
+C0003,Vikram Patel,Unkown,Unknown,06-07-2022,UK,Manchester,26,Male,UPI,Cancelled,1134.89
+C0004,Vikram Kumar,vikram.kumar77@outlook.com,6718227824,22-09-2023,USA,Seattle,25,Female,Debit Card,Cancelled,362.98
+C0005,Priya Patel,priya.patel10@company.in,7763116566,09-01-2025,India,Kurnool,60,Female,Credit Card,Cancelled,202.81
+C0006,Emily Davis,emily.davis22@gmail.com,9468723430,01-05-2022,India,Kurnool,31,Male,UPI,Completed,251.13
+C0007,Divya Gupta,divya.gupta54@company.in,8751079911,23-02-2023,India,Mumbai,38,Unkown,Debit Card,Completed,1006.24
+C0008,Vikram Singh,vikram.singh35@outlook.com,6164005242,,India,Kurnool,63,Male,Cash on Delivery,Completed,1280.1
+C0009,Kavya Patel,kavya.patel46@company.in,7602563421,,USA,Seattle,44,Male,Debit Card,Refunded,1389.02
+C0010,Emily Kumar,emily.kumar23@company.in,6693406088,08-06-2024,India,Kurnool,43,Male,PayPal,Cancelled,521.8
+C0011,Ananya Gupta,ananya.gupta39@outlook.com,Unknown,02-09-2025,UK,Manchester,68,Female,Unkown,Refunded,486.76
+C0012,Sneha Brown,sneha.brown90@company.in,8798687277,06-09-2022,Canada,Toronto,53,Male,Cash on Delivery,Pending,687.41
+C0013,Rohan Rao,rohan.rao27@gmail.com,8466889373,10-02-2022,Unknown,Vancouver,67,Male,PayPal,Refunded,1285.81
+C0014,Arjun Iyer,arjun.iyer42@outlook.com,6531003309,13-05-2024,UK,London,42,Male,Unkown,Pending,382.14
+C0015,Suresh Iyer,suresh.iyer14@outlook.com,6850671657,05-03-2025,USA,New York,56,Male,Cash on Delivery,Refunded,1175.04
+C0016,Aarav Khan,aarav.khan28@outlook.com,Unknown,05-05-2025,UK,London,39,Male,Debit Card,Pending,1053.27
+C0017,Rohan Reddy,rohan.reddy95@gmail.com,8240824008,10-12-2024,USA,New York,55,Female,Credit Card,Cancelled,897.2
+C0018,Michael Singh,michael.singh72@gmail.com,9499091334,,India,Hyderabad,68,Male,Debit Card,Pending,573.67
+C0019,Karthik Iyer,karthik.iyer83@yahoo.com,9174648877,03-05-2022,India,Mumbai,70,Female,UPI,Cancelled,253.05
+C0020,Imran Singh,imran.singh82@gmail.com,9468071545,14-11-2023,USA,Seattle,48,Male,Cash on Delivery,Refunded,484.98
+C0021,Sarah Brown,Unkown,8846773782,21-08-2022,USA,Seattle,44,Male,Credit Card,Refunded,694.86
+C0022,Emily Brown,emily.brown25@yahoo.com,7702895171,21-04-2024,Canada,Vancouver,32,Male,PayPal,Completed,70.25
+C0023,Fatima Davis,fatima.davis31@outlook.com,8005045562,21-07-2022,India,Mumbai,65,Unkown,Debit Card,Completed,1141.75
+C0024,Rahul Khan,rahul.khan89@outlook.com,Unknown,27-02-2024,UK,Manchester,37,Male,Debit Card,Cancelled,1280.73
+C0025,Unkown,vikram.brown33@gmail.com,7685160481,25-11-2023,UK,Manchester,36,Female,UPI,Unkown,1207.33
+C0026,Sneha Reddy,sneha.reddy50@gmail.com,6796405377,11-01-2025,USA,Seattle,65,Male,UPI,Cancelled,
+C0027,Michael Patel,michael.patel76@yahoo.com,Unknown,30-10-2022,India,Mumbai,32,Male,Credit Card,Cancelled,1184.02
+C0028,John Singh,john.singh62@gmail.com,7499856984,27-06-2024,Canada,Toronto,24,Female,Credit Card,Pending,114.87
+C0029,Rahul Reddy,rahul.reddy13@outlook.com,9049451983,24-02-2025,India,Kurnool,53,Male,Credit Card,Cancelled,
+C0030,Ananya Singh,ananya.singh1@yahoo.com,7667525459,23-05-2022,UK,Manchester,54,Male,Debit Card,Completed,217.1
+C0031,Meera Sharma,meera.sharma1@yahoo.com,Unknown,08-06-2023,USA,Unkown,31,Other,Credit Card,Completed,437.72
+C0032,Lakshmi Davis,lakshmi.davis76@gmail.com,6883552312,27-11-2023,India,Hyderabad,43,Female,Credit Card,Refunded,336.25
+C0033,Imran Smith,imran.smith46@company.in,9798079359,27-04-2022,UK,Manchester,47,Female,PayPal,Cancelled,556.26
+C0034,Sarah Sharma,sarah.sharma13@company.in,7546291486,06-09-2025,UK,London,36,Male,Cash on Delivery,Refunded,1446.79
+C0035,Emily Davis,emily.davis99@company.in,6653794738,06-01-2023,India,Delhi,42,Male,UPI,Refunded,1247.86
+C0036,Sneha Johnson,sneha.johnson98@yahoo.com,6606853615,14-06-2024,India,Bengaluru,43,Unkown,UPI,Pending,142.11
+C0037,John Iyer,john.iyer39@gmail.com,6893246095,29-06-2025,Unknown,Bengaluru,44,Other,Unkown,Cancelled,688.39
+C0038,Divya Johnson,divya.johnson18@gmail.com,7170430305,25-12-2022,India,Mumbai,39,Other,UPI,Pending,1246.42
+C0039,Fatima Johnson,fatima.johnson11@gmail.com,8479627570,05-01-2023,Canada,Unkown,56,Female,UPI,Completed,
+C0040,Kavya Iyer,kavya.iyer87@gmail.com,8310278681,07-06-2022,India,Mumbai,41,Male,Debit Card,Refunded,863.01
+C0041,Emily Singh,emily.singh47@company.in,9829114678,30-04-2023,UK,London,30,Male,Debit Card,Completed,1186.61
+C0042,John Naidu,john.naidu42@yahoo.com,8981829922,11-06-2022,UK,London,51,Male,Credit Card,Completed,379.65
+C0043,Meera Khan,meera.khan21@gmail.com,8625881537,27-05-2025,India,Delhi,47,Female,Debit Card,Completed,219.78
+C0044,Imran Khan,imran.khan12@gmail.com,9480162456,24-12-2023,UK,Manchester,33,Female,Cash on Delivery,Cancelled,77.74
+C0045,Kavya Brown,kavya.brown65@gmail.com,8269495888,28-08-2024,USA,New York,43,Male,PayPal,Cancelled,781.4
+C0046,Divya Johnson,divya.johnson22@company.in,6307562636,18-02-2024,India,Mumbai,57,Male,Credit Card,Pending,225.92
+C0047,Arjun Gupta,arjun.gupta36@company.in,8419866524,01-03-2023,Canada,Toronto,37,Other,PayPal,Refunded,1036.91
+C0048,Priya Reddy,Unkown,7454019380,20-11-2022,Canada,Vancouver,53,Other,PayPal,Pending,613.33
+C0049,Arjun Patel,arjun.patel94@gmail.com,9685161227,,India,Bengaluru,63,Female,PayPal,Refunded,1187.2
+C0050,Meera Johnson,meera.johnson48@company.in,9833918785,20-07-2024,India,Delhi,26,Male,Cash on Delivery,Pending,1122.86
+C0051,Priya Rao,priya.rao51@outlook.com,6170462265,30-05-2022,Canada,Vancouver,65,Female,Credit Card,Pending,72.71
+C0052,Suresh Davis,suresh.davis45@yahoo.com,6190790306,07-03-2022,USA,New York,64,Male,Credit Card,Cancelled,1215.17
+C0053,Priya Rao,priya.rao72@gmail.com,8628733427,06-10-2025,USA,Seattle,40,Male,Cash on Delivery,Unkown,574.83
+C0054,Karthik Brown,karthik.brown43@outlook.com,7638546785,25-01-2023,USA,Austin,18,Other,PayPal,Refunded,1443.31
+C0055,Rohan Patel,rohan.patel71@outlook.com,9280801006,07-08-2025,Canada,Toronto,43,Female,Debit Card,Pending,
+C0056,Aarav Rao,aarav.rao13@company.in,9793341016,01-06-2023,Canada,Toronto,30,Male,Credit Card,Completed,1223.75
+C0057,Arjun Sharma,arjun.sharma70@company.in,9142939685,07-10-2023,India,Delhi,29,Unkown,Cash on Delivery,Completed,
+C0058,Emily Iyer,emily.iyer11@company.in,8511047541,18-06-2022,Canada,Unkown,33,Male,PayPal,Completed,405.62
+C0059,Michael Rao,michael.rao22@yahoo.com,6543799371,10-05-2022,USA,Seattle,35,Male,UPI,Refunded,254.98
+C0060,Rohan Singh,rohan.singh49@outlook.com,6737416724,28-02-2025,Canada,Toronto,43,Male,PayPal,Refunded,303.7
+C0061,Rahul Reddy,rahul.reddy22@company.in,6438889937,29-03-2024,USA,Seattle,59,Male,UPI,Refunded,1450.38
+C0062,Imran Kumar,Unkown,7586736226,18-10-2025,India,Bengaluru,39,Female,PayPal,Refunded,1201.07
+C0063,Fatima Rao,fatima.rao76@gmail.com,7513412528,11-10-2025,UK,Manchester,47,Female,PayPal,Refunded,1060.45
+C0064,Fatima Naidu,fatima.naidu53@gmail.com,8384279788,19-06-2022,USA,Austin,46,Female,Cash on Delivery,Completed,850.27
+C0065,Sneha Brown,sneha.brown91@company.in,8982544948,28-02-2023,USA,New York,28,Female,PayPal,Cancelled,1221.23
+C0066,Rahul Smith,rahul.smith89@outlook.com,9518636374,06-01-2022,India,Unkown,49,Female,Cash on Delivery,Refunded,1304.02
+C0067,Vikram Smith,vikram.smith12@outlook.com,7611037129,21-08-2025,UK,London,41,Male,Credit Card,Completed,252.46
+C0068,Vikram Reddy,vikram.reddy57@outlook.com,6219656523,23-04-2024,India,Mumbai,58,Female,Cash on Delivery,Completed,926.03
+C0069,Rahul Rao,rahul.rao17@gmail.com,Unknown,23-01-2025,India,Bengaluru,54,Female,Credit Card,Pending,1026
+C0070,Lakshmi Johnson,lakshmi.johnson12@gmail.com,7027588425,26-09-2023,USA,New York,57,Male,Credit Card,Refunded,1000.79
+C0071,Michael Smith,michael.smith6@gmail.com,9353654195,04-11-2022,India,Hyderabad,48,Male,Debit Card,Refunded,272.55
+C0072,Kavya Gupta,kavya.gupta20@gmail.com,6641383670,11-12-2023,Canada,Toronto,19,Male,Credit Card,Refunded,955.73
+C0073,Meera Singh,meera.singh41@gmail.com,9756185374,06-10-2022,UK,Manchester,22,Male,Unkown,Completed,1171.01
+C0074,Emily Johnson,emily.johnson14@yahoo.com,6994101372,01-04-2023,USA,New York,21,Female,Credit Card,Completed,200.42
+C0075,Sarah Gupta,sarah.gupta64@gmail.com,6657875985,27-07-2023,USA,Seattle,48,Male,UPI,Pending,577.61
+C0076,Priya Brown,priya.brown46@yahoo.com,7937842701,05-01-2024,USA,Seattle,55,Female,Credit Card,Refunded,1371.4
+C0077,Unkown,sneha.davis91@gmail.com,9528953926,07-10-2022,UK,London,39,Male,Debit Card,Refunded,1463.91
+C0078,Unkown,rahul.davis34@yahoo.com,7676586179,10-08-2022,UK,Manchester,22,Other,PayPal,Completed,1082.02
+C0079,Fatima Johnson,fatima.johnson78@gmail.com,8431069872,25-01-2023,India,Chennai,24,Male,Credit Card,Refunded,616.87
+C0080,Suresh Naidu,suresh.naidu24@gmail.com,Unknown,09-04-2023,UK,Manchester,46,Male,Cash on Delivery,Refunded,1256.43
+C0081,Ananya Patel,ananya.patel55@gmail.com,Unknown,08-07-2025,USA,New York,45,Female,Credit Card,Pending,226.08
+C0082,Fatima Gupta,fatima.gupta36@gmail.com,Unknown,02-04-2024,Canada,Toronto,56,Female,Debit Card,Refunded,62.98
+C0083,Ananya Reddy,Unkown,8345786103,16-02-2023,Unknown,Manchester,30,Other,PayPal,Cancelled,1256.28
+C0084,Arjun Smith,arjun.smith61@yahoo.com,Unknown,04-04-2023,Canada,Toronto,56,Male,Credit Card,Cancelled,382.32
+C0085,Divya Sharma,divya.sharma93@gmail.com,7538758428,07-05-2024,Canada,Vancouver,36,Female,Debit Card,Pending,609.88
+C0086,Michael Gupta,michael.gupta65@gmail.com,8697252175,26-04-2024,India,Chennai,42,Male,Credit Card,Cancelled,85.82
+C0087,Priya Rao,priya.rao2@outlook.com,Unknown,17-10-2025,USA,Seattle,51,Female,PayPal,Refunded,11.17
+C0088,Aarav Gupta,aarav.gupta92@gmail.com,6016761847,31-12-2024,USA,New York,58,Male,UPI,Completed,936.59
+C0089,John Patel,john.patel21@gmail.com,9218114374,11-09-2024,UK,Manchester,31,Female,Debit Card,Cancelled,499.25
+C0090,Sarah Singh,sarah.singh24@gmail.com,7120216979,29-02-2024,India,Bengaluru,43,Male,UPI,Completed,1036.4
+C0091,Rohan Rao,rohan.rao62@outlook.com,7877217535,17-02-2025,India,Chennai,59,Male,Cash on Delivery,Refunded,
+C0092,Aarav Davis,aarav.davis66@company.in,8899757113,30-11-2023,India,Mumbai,60,Female,Cash on Delivery,Completed,548.2
+C0093,Karthik Johnson,karthik.johnson6@company.in,6869782922,21-04-2025,UK,London,46,Other,PayPal,Cancelled,1434.51
+C0094,Emily Smith,emily.smith80@outlook.com,Unknown,24-08-2025,USA,New York,61,Male,Credit Card,Unkown,1462.89
+C0095,Imran Reddy,imran.reddy31@company.in,Unknown,22-09-2025,USA,Seattle,69,Male,Debit Card,Unkown,75.23
+C0096,Vikram Sharma,vikram.sharma81@company.in,7818268861,18-03-2025,USA,Austin,37,Female,UPI,Cancelled,827.49
+C0097,Divya Sharma,divya.sharma50@outlook.com,7581128801,,UK,Manchester,43,Other,Credit Card,Refunded,773.89
+C0098,Arjun Iyer,Unkown,6581449147,13-01-2022,Canada,Vancouver,61,Female,Debit Card,Unkown,963.93
+C0099,Emily Naidu,emily.naidu74@company.in,Unknown,17-09-2023,India,Kurnool,53,Female,Cash on Delivery,Cancelled,319.03
+C0100,Rohan Gupta,rohan.gupta41@gmail.com,7577754781,30-03-2023,UK,London,38,Male,Debit Card,Cancelled,
+C0101,Fatima Smith,fatima.smith29@company.in,7928272299,23-10-2024,USA,Austin,36,Male,Unkown,Pending,768.07
+C0102,John Smith,john.smith49@gmail.com,8577908272,09-06-2022,UK,Manchester,59,Female,Debit Card,Pending,777.41
+C0103,Divya Sharma,divya.sharma18@company.in,Unknown,07-12-2022,USA,Seattle,54,Male,Cash on Delivery,Cancelled,391.1
+C0104,Vikram Gupta,vikram.gupta79@company.in,Unknown,29-08-2022,India,Hyderabad,68,Unkown,Cash on Delivery,Refunded,144.32
+C0105,Aarav Iyer,aarav.iyer53@outlook.com,8636887258,04-06-2023,USA,Seattle,45,Female,Cash on Delivery,Refunded,395.65
+C0106,Priya Naidu,priya.naidu19@gmail.com,9984902770,31-03-2023,Canada,Toronto,30,Male,Credit Card,Unkown,559.4
+C0107,Rahul Reddy,rahul.reddy36@yahoo.com,Unknown,07-04-2024,UK,Manchester,30,Male,Debit Card,Refunded,864.49
+C0108,Emily Sharma,emily.sharma12@gmail.com,8237333433,09-02-2025,UK,London,70,Female,Debit Card,Completed,1397.44
+C0109,Arjun Khan,arjun.khan51@yahoo.com,7718750036,16-05-2024,USA,Seattle,26,Male,Cash on Delivery,Pending,720.09
+C0110,Vikram Gupta,vikram.gupta31@company.in,8744890612,03-11-2022,Unknown,New York,42,Male,Credit Card,Cancelled,712.12
+C0111,Meera Kumar,meera.kumar11@gmail.com,9112535544,24-10-2022,UK,Manchester,47,Female,PayPal,Refunded,1303.05
+C0112,Fatima Rao,fatima.rao68@gmail.com,Unknown,03-09-2025,India,Kurnool,57,Female,Cash on Delivery,Pending,1397.73
+C0113,Meera Kumar,Unkown,9740649308,07-10-2022,Canada,Vancouver,70,Male,PayPal,Pending,519.11
+C0114,Arjun Iyer,arjun.iyer18@outlook.com,6802144270,12-07-2023,USA,New York,47,Female,PayPal,Cancelled,1052.21
+C0115,Fatima Naidu,fatima.naidu2@gmail.com,6837645208,26-06-2024,USA,Austin,63,Female,Unkown,Cancelled,374.51
+C0116,Fatima Johnson,fatima.johnson32@yahoo.com,6273585730,04-07-2025,USA,Austin,61,Male,UPI,Refunded,94.78
+C0117,Rahul Rao,rahul.rao34@company.in,Unknown,02-11-2024,USA,Unkown,18,Male,UPI,Cancelled,571.67
+C0118,John Gupta,john.gupta29@company.in,6586509480,04-03-2023,UK,London,18,Female,Debit Card,Completed,985.35
+C0119,Imran Johnson,imran.johnson24@company.in,8566593983,29-12-2024,Canada,Toronto,39,Female,Unkown,Refunded,1497.66
+C0120,Arjun Rao,arjun.rao59@outlook.com,9931572791,07-04-2025,USA,New York,34,Male,Cash on Delivery,Completed,378.54
+C0121,Suresh Sharma,suresh.sharma70@company.in,6364622517,10-11-2022,UK,London,50,Male,UPI,Refunded,80.53
+C0122,Unkown,arjun.brown15@gmail.com,8979270335,07-12-2023,Canada,Vancouver,40,Male,Credit Card,Pending,892.85
+C0123,Vikram Johnson,Unkown,8510463681,19-06-2025,India,Chennai,43,Male,Debit Card,Refunded,410.57
+C0124,John Singh,john.singh50@gmail.com,7639264957,01-12-2023,India,Delhi,35,Female,Cash on Delivery,Pending,1346.28
+C0125,Sneha Naidu,sneha.naidu98@outlook.com,7122099499,14-09-2023,UK,London,44,Male,Credit Card,Completed,667.29
+C0126,Arjun Iyer,arjun.iyer97@yahoo.com,6965699988,30-09-2024,USA,Seattle,46,Female,PayPal,Completed,1033.35
+C0127,Imran Naidu,imran.naidu89@company.in,7665702793,14-07-2024,Canada,Vancouver,47,Male,Debit Card,Completed,140.21
+C0128,Rohan Gupta,Unkown,6940777809,02-07-2024,USA,New York,37,Male,PayPal,Unkown,436.73
+C0129,Sarah Singh,sarah.singh14@gmail.com,Unknown,05-06-2025,UK,London,28,Female,UPI,Pending,993.08
+C0130,Sarah Brown,sarah.brown34@company.in,Unknown,23-09-2022,UK,Manchester,57,Other,PayPal,Cancelled,923.36
+C0131,Suresh Johnson,suresh.johnson43@outlook.com,8760849588,14-03-2022,India,Hyderabad,48,Other,UPI,Pending,970.25
+C0132,Priya Singh,priya.singh31@outlook.com,6780782357,12-09-2023,Unknown,Toronto,37,Male,Debit Card,Pending,266.64
+C0133,Meera Sharma,meera.sharma26@yahoo.com,Unknown,22-06-2024,UK,London,52,Male,Debit Card,Cancelled,1008.33
+C0134,Imran Gupta,imran.gupta26@company.in,8773329456,08-03-2025,UK,Manchester,66,Other,PayPal,Completed,202.03
+C0135,Rahul Brown,rahul.brown76@gmail.com,9958321971,14-09-2024,UK,Manchester,33,Female,Cash on Delivery,Refunded,578.81
+C0136,Michael Brown,michael.brown58@company.in,Unknown,05-02-2023,India,Hyderabad,57,Male,Cash on Delivery,Completed,312.46
+C0137,Karthik Rao,karthik.rao20@outlook.com,7126796927,24-01-2022,Canada,Vancouver,60,Other,UPI,Pending,112.26
+C0138,Sneha Gupta,sneha.gupta94@company.in,9189490580,10-08-2024,Canada,Toronto,66,Female,PayPal,Cancelled,777.84
+C0139,Sarah Sharma,sarah.sharma17@company.in,6929275243,29-09-2022,UK,Manchester,68,Male,Credit Card,Pending,925.62
+C0140,Priya Naidu,priya.naidu39@gmail.com,9047658018,24-04-2023,Canada,Vancouver,66,Other,UPI,Cancelled,572.8
+C0141,Aarav Smith,aarav.smith53@gmail.com,6093911192,26-03-2023,India,Kurnool,61,Male,Credit Card,Cancelled,1089.25
+C0142,Priya Iyer,priya.iyer34@outlook.com,9391741011,15-02-2023,Canada,Vancouver,22,Other,Credit Card,Pending,917.4
+C0143,Rahul Rao,rahul.rao89@gmail.com,6585174328,06-01-2024,USA,New York,52,Male,PayPal,Cancelled,503.49
+C0144,Emily Davis,emily.davis44@gmail.com,7931027079,31-08-2022,Canada,Toronto,64,Male,Debit Card,Cancelled,321.46
+C0145,Suresh Kumar,suresh.kumar42@yahoo.com,8827390219,10-05-2022,India,Delhi,55,Male,PayPal,Completed,185.51
+C0146,Lakshmi Patel,lakshmi.patel77@yahoo.com,7318195883,08-07-2025,USA,Seattle,57,Male,Credit Card,Completed,1240.59
+C0147,Imran Sharma,imran.sharma69@yahoo.com,8635315313,26-08-2022,India,Delhi,19,Other,Debit Card,Refunded,110.93
+C0148,Vikram Sharma,vikram.sharma15@gmail.com,7168739774,27-03-2023,India,Bengaluru,28,Female,Debit Card,Refunded,1330.18
+C0149,Suresh Khan,suresh.khan31@gmail.com,6074279907,12-04-2024,India,Unkown,18,Male,Debit Card,Refunded,1425.14
+C0150,Rahul Gupta,rahul.gupta7@gmail.com,7253817933,19-01-2024,UK,London,47,Female,UPI,Completed,552.82
+C0151,Rahul Patel,rahul.patel51@yahoo.com,6468275670,20-07-2023,Canada,Toronto,22,Male,Debit Card,Refunded,172.48
+C0152,Arjun Patel,arjun.patel99@gmail.com,7223105927,07-12-2022,Canada,Unkown,36,Male,Cash on Delivery,Cancelled,929.85
+C0153,Unkown,emily.rao38@company.in,7814069375,24-06-2024,UK,Manchester,69,Other,Cash on Delivery,Cancelled,511.33
+C0154,Suresh Naidu,suresh.naidu48@gmail.com,9742662991,01-07-2024,Canada,Vancouver,40,Other,Cash on Delivery,Completed,1312.08
+C0155,Priya Davis,priya.davis72@gmail.com,8627301471,07-09-2023,Unknown,Manchester,43,Other,Cash on Delivery,Cancelled,1434.26
+C0156,Arjun Kumar,arjun.kumar38@outlook.com,8445189520,10-07-2025,Canada,Vancouver,22,Male,PayPal,Cancelled,278.96
+C0157,Sneha Iyer,sneha.iyer17@gmail.com,8240132234,12-10-2022,Canada,Toronto,37,Female,PayPal,Completed,1226.47
+C0158,Sneha Brown,sneha.brown76@yahoo.com,7891190833,23-07-2023,India,Mumbai,43,Male,Credit Card,Refunded,1423.44
+C0159,Imran Reddy,imran.reddy91@outlook.com,9386463175,25-08-2022,USA,Austin,30,Male,PayPal,Completed,580.25
+C0160,Sneha Patel,sneha.patel98@company.in,9842711477,11-08-2025,Canada,Vancouver,66,Female,Credit Card,Completed,1415.12
+C0161,Karthik Singh,karthik.singh70@outlook.com,8677002842,06-03-2022,Canada,Vancouver,52,Female,PayPal,Completed,1486.11
+C0162,Meera Kumar,meera.kumar17@outlook.com,Unknown,04-07-2025,India,Kurnool,65,Female,Debit Card,Cancelled,515.18
+C0163,Fatima Reddy,fatima.reddy65@outlook.com,7440496391,11-06-2024,USA,Austin,37,Female,Cash on Delivery,Cancelled,306.63
+C0164,Arjun Gupta,arjun.gupta81@company.in,9908357232,15-09-2025,Canada,Toronto,54,Other,PayPal,Completed,
+C0165,Emily Iyer,emily.iyer21@outlook.com,9001594165,23-07-2023,Canada,Toronto,34,Male,Debit Card,Completed,989.71
+C0166,Suresh Brown,suresh.brown19@gmail.com,6586734257,05-06-2023,USA,Austin,35,Male,Unkown,Completed,1295.04
+C0167,Arjun Singh,arjun.singh27@yahoo.com,9765612481,12-08-2025,India,Hyderabad,58,Female,PayPal,Completed,612.4
+C0168,Vikram Davis,vikram.davis62@yahoo.com,9693008931,02-11-2023,Canada,Vancouver,61,Male,Credit Card,Refunded,1200.3
+C0169,Karthik Patel,karthik.patel49@yahoo.com,7044397359,03-08-2023,UK,Manchester,31,Male,Credit Card,Pending,1091.43
+C0170,Kavya Gupta,kavya.gupta65@company.in,7875721586,28-09-2022,India,Kurnool,43,Female,Credit Card,Refunded,1452.25
+C0171,Vikram Rao,vikram.rao20@gmail.com,8877712151,01-12-2022,Canada,Toronto,20,Unkown,Debit Card,Pending,1060.41
+C0172,Sneha Davis,sneha.davis11@gmail.com,Unknown,,UK,London,60,Male,Credit Card,Cancelled,1433.03
+C0173,Lakshmi Johnson,lakshmi.johnson86@gmail.com,6659266108,01-07-2024,UK,London,50,Female,PayPal,Cancelled,1328.69
+C0174,Priya Rao,priya.rao53@gmail.com,9226016459,03-06-2023,India,Unkown,64,Male,UPI,Pending,536.41
+C0175,Sarah Johnson,sarah.johnson89@gmail.com,7723683147,29-01-2022,Canada,Vancouver,23,Female,Credit Card,Pending,
+C0176,Lakshmi Davis,lakshmi.davis63@gmail.com,6695814671,21-10-2025,Canada,Vancouver,55,Female,PayPal,Pending,1358.08
+C0177,Suresh Iyer,suresh.iyer80@yahoo.com,9743380054,22-09-2022,UK,Manchester,30,Other,Cash on Delivery,Completed,264.07
+C0178,John Gupta,john.gupta57@gmail.com,Unknown,05-08-2022,Unknown,Delhi,66,Female,Debit Card,Cancelled,1173.57
+C0179,Kavya Smith,kavya.smith30@yahoo.com,9208115562,28-07-2024,USA,New York,43,Female,Debit Card,Cancelled,1428
+C0180,Karthik Rao,karthik.rao26@outlook.com,Unknown,16-09-2022,Canada,Vancouver,52,Unkown,Cash on Delivery,Completed,783.1
+C0181,Michael Johnson,michael.johnson37@company.in,8712661106,23-05-2023,USA,Austin,63,Female,Credit Card,Refunded,162.31
+C0182,Unkown,john.naidu91@company.in,6961159408,21-07-2024,Canada,Vancouver,25,Male,UPI,Cancelled,712.67
+C0183,Priya Iyer,priya.iyer44@gmail.com,9251996636,29-09-2022,Canada,Vancouver,64,Other,UPI,Completed,1144.12
+C0184,Michael Rao,michael.rao16@company.in,8690705626,26-02-2023,USA,Austin,19,Female,PayPal,Completed,371.7
+C0185,Priya Singh,priya.singh19@gmail.com,9886140578,05-09-2022,Canada,Toronto,34,Female,PayPal,Completed,82.56
+C0186,Vikram Kumar,vikram.kumar72@gmail.com,9494653984,25-06-2025,USA,New York,70,Male,UPI,Refunded,437.43
+C0187,Imran Singh,imran.singh44@yahoo.com,6268768118,,USA,Seattle,43,Unkown,UPI,Cancelled,971.43
+C0188,Sarah Smith,sarah.smith64@outlook.com,8987283999,26-05-2025,UK,London,49,Male,Debit Card,Pending,317.58
+C0189,Priya Davis,priya.davis36@gmail.com,Unknown,,UK,Manchester,47,Female,Credit Card,Pending,1139.74
+C0190,Rohan Davis,rohan.davis10@company.in,9512070496,03-07-2024,India,Bengaluru,66,Male,UPI,Refunded,870.51
+C0191,Aarav Khan,aarav.khan14@gmail.com,9797232002,01-02-2023,UK,London,22,Male,UPI,Pending,1357.02
+C0192,Kavya Patel,kavya.patel9@outlook.com,8946521707,15-08-2024,USA,Seattle,48,Female,Unkown,Pending,901.64
+C0193,Imran Patel,imran.patel26@yahoo.com,7410261534,23-12-2022,UK,London,32,Male,Debit Card,Completed,513.03
+C0194,Karthik Davis,karthik.davis32@gmail.com,9912868578,06-11-2024,Unknown,London,35,Female,Cash on Delivery,Refunded,1452.73
+C0195,Ananya Davis,ananya.davis18@gmail.com,9665754602,10-04-2025,Unknown,Manchester,51,Female,UPI,Cancelled,66.51
+C0196,Karthik Johnson,karthik.johnson2@outlook.com,Unknown,07-04-2024,USA,Seattle,40,Male,Unkown,Pending,1418.99
+C0197,Kavya Kumar,kavya.kumar88@gmail.com,7599996636,30-10-2023,USA,Austin,62,Unkown,PayPal,Cancelled,882.5
+C0198,Unkown,Unkown,9163234672,21-04-2024,India,Chennai,38,Male,Unkown,Cancelled,589.7
+C0199,Imran Kumar,imran.kumar54@yahoo.com,Unknown,26-07-2024,UK,Manchester,57,Female,Credit Card,Cancelled,580.07
+C0200,Aarav Singh,Unkown,6912418621,15-06-2024,India,Delhi,25,Male,Debit Card,Cancelled,214.68
+C0201,Imran Sharma,imran.sharma99@yahoo.com,Unknown,14-02-2023,India,Kurnool,41,Male,Cash on Delivery,Refunded,141.62
+C0202,Kavya Sharma,kavya.sharma39@company.in,9252571509,11-03-2025,India,Hyderabad,24,Female,Cash on Delivery,Pending,261.33
+C0203,Priya Patel,priya.patel36@outlook.com,8533803396,29-04-2024,Canada,Vancouver,43,Male,Credit Card,Refunded,973.83
+C0204,Imran Singh,imran.singh32@gmail.com,9156627768,26-03-2025,USA,Seattle,33,Male,PayPal,Refunded,675.17
+C0205,Rahul Kumar,rahul.kumar26@yahoo.com,8674916016,06-02-2024,USA,Seattle,43,Male,UPI,Unkown,739.72
+C0206,Vikram Singh,vikram.singh32@company.in,6836264488,26-01-2022,Unknown,Toronto,43,Male,Credit Card,Cancelled,179.51
+C0207,Lakshmi Naidu,lakshmi.naidu91@yahoo.com,7346791214,14-08-2022,USA,Unkown,29,Male,Credit Card,Completed,678.74
+C0208,John Brown,john.brown97@outlook.com,9905510762,04-12-2023,Unknown,Manchester,39,Unkown,Debit Card,Refunded,1499.17
+C0209,Imran Patel,imran.patel45@gmail.com,6271487271,25-07-2022,Canada,Vancouver,48,Female,Debit Card,Completed,1102.75
+C0210,Vikram Rao,vikram.rao29@company.in,Unknown,04-12-2023,Canada,Toronto,56,Male,Cash on Delivery,Pending,568.63
+C0211,Sarah Gupta,sarah.gupta2@company.in,8209548149,31-08-2023,USA,New York,38,Other,UPI,Refunded,1256.64
+C0212,Suresh Singh,suresh.singh44@gmail.com,7861259047,11-03-2024,USA,New York,40,Male,PayPal,Cancelled,112.38
+C0213,Ananya Sharma,ananya.sharma23@gmail.com,Unknown,30-04-2025,India,Bengaluru,50,Male,PayPal,Completed,653.56
+C0214,Suresh Khan,suresh.khan13@outlook.com,9189813129,10-04-2024,Canada,Vancouver,68,Male,UPI,Completed,1220.24
+C0215,Aarav Patel,aarav.patel85@company.in,7103032432,03-10-2023,UK,London,54,Female,UPI,Refunded,786.39
+C0216,Unkown,arjun.smith73@company.in,7141818615,10-10-2023,USA,Seattle,44,Male,UPI,Pending,1488.71
+C0217,Kavya Johnson,kavya.johnson7@yahoo.com,9792408222,08-12-2023,UK,Manchester,66,Male,UPI,Pending,1210.1
+C0218,Rahul Singh,rahul.singh82@gmail.com,9068277881,05-12-2022,Canada,Vancouver,33,Male,PayPal,Pending,865.1
+C0219,Suresh Naidu,suresh.naidu87@yahoo.com,9348079705,,UK,London,67,Female,UPI,Completed,452.27
+C0220,Arjun Patel,arjun.patel39@outlook.com,8605313402,06-07-2023,Canada,Vancouver,29,Other,Debit Card,Refunded,167.5
+C0221,Suresh Naidu,suresh.naidu17@yahoo.com,6674471639,30-04-2023,India,Kurnool,18,Male,Debit Card,Completed,82.8
+C0222,Vikram Patel,vikram.patel5@outlook.com,8335670860,16-06-2025,India,Hyderabad,27,Male,UPI,Refunded,303.47
+C0223,Kavya Kumar,kavya.kumar86@gmail.com,8343961129,10-11-2023,UK,London,67,Female,PayPal,Completed,544.05
+C0224,Emily Kumar,emily.kumar56@gmail.com,7409036788,28-10-2024,UK,Manchester,51,Male,Cash on Delivery,Refunded,1187.37
+C0225,Divya Singh,Unkown,7381059551,23-07-2023,UK,London,43,Male,PayPal,Cancelled,1391.24
+C0226,Suresh Smith,suresh.smith29@outlook.com,9172722397,20-03-2024,UK,London,55,Male,UPI,Unkown,237.68
+C0227,Unkown,suresh.iyer98@gmail.com,6851327972,08-07-2025,India,Kurnool,25,Unkown,Debit Card,Cancelled,901.46
+C0228,Suresh Smith,suresh.smith15@yahoo.com,7268592624,14-06-2025,India,Chennai,36,Female,Credit Card,Refunded,503.92
+C0229,Fatima Davis,fatima.davis94@outlook.com,9952366878,08-01-2023,India,Unkown,43,Other,PayPal,Refunded,1152.47
+C0230,Kavya Davis,kavya.davis19@company.in,6650191792,05-04-2023,USA,Austin,44,Male,Credit Card,Completed,88.52
+C0231,Aarav Singh,aarav.singh83@gmail.com,8984362418,23-01-2022,India,Hyderabad,29,Other,Cash on Delivery,Pending,597.6
+C0232,Unkown,lakshmi.patel10@outlook.com,8383034199,30-11-2022,UK,London,43,Female,Credit Card,Completed,814.64
+C0233,John Reddy,john.reddy62@company.in,Unknown,07-11-2022,USA,New York,20,Female,UPI,Refunded,1025.15
+C0234,Meera Rao,meera.rao59@outlook.com,9474721970,28-07-2023,India,Chennai,36,Female,PayPal,Refunded,866.88
+C0235,Divya Johnson,divya.johnson38@gmail.com,9871121663,,India,Hyderabad,43,Female,UPI,Refunded,585.39
+C0236,Kavya Brown,kavya.brown7@yahoo.com,9147683420,07-07-2023,Canada,Vancouver,66,Male,Debit Card,Cancelled,381.85
+C0237,Michael Gupta,michael.gupta2@yahoo.com,Unknown,11-10-2023,USA,Austin,27,Male,Debit Card,Pending,174.84
+C0238,Kavya Kumar,kavya.kumar23@gmail.com,6111096179,30-11-2022,Canada,Vancouver,29,Male,UPI,Pending,816.43
+C0239,Suresh Sharma,suresh.sharma35@outlook.com,6258955296,10-10-2025,UK,London,68,Male,Cash on Delivery,Completed,366.12
+C0240,Suresh Davis,suresh.davis27@gmail.com,Unknown,30-04-2025,UK,London,43,Male,UPI,Completed,233.81
+C0241,Kavya Davis,kavya.davis63@gmail.com,9224029901,06-06-2022,USA,Austin,49,Unkown,Debit Card,Completed,319.39
+C0242,Arjun Singh,arjun.singh45@company.in,7461994237,12-10-2024,Canada,Toronto,43,Female,UPI,Completed,656.91
+C0243,John Kumar,john.kumar24@outlook.com,6050537953,29-05-2022,Canada,Toronto,29,Male,Cash on Delivery,Pending,326.7
+C0244,Priya Brown,priya.brown36@gmail.com,6742608805,01-11-2023,Canada,Vancouver,46,Male,Credit Card,Cancelled,888.8
+C0245,Kavya Gupta,kavya.gupta7@gmail.com,6040104145,11-06-2024,India,Kurnool,38,Female,Debit Card,Refunded,343.39
+C0246,Arjun Kumar,arjun.kumar34@outlook.com,6703037637,12-05-2023,Canada,Toronto,40,Female,UPI,Refunded,990.92
+C0247,Ananya Smith,ananya.smith60@gmail.com,8181563268,19-01-2023,UK,London,43,Male,PayPal,Cancelled,403.8
+C0248,Divya Reddy,divya.reddy5@company.in,6347323549,19-07-2023,USA,New York,22,Male,Debit Card,Cancelled,
+C0249,Aarav Gupta,aarav.gupta63@yahoo.com,7211457758,07-03-2025,UK,Manchester,20,Female,UPI,Completed,1021.67
+C0250,Lakshmi Davis,lakshmi.davis46@gmail.com,9148782455,01-06-2024,USA,Seattle,54,Unkown,UPI,Completed,542.33
+C0251,Meera Gupta,meera.gupta37@gmail.com,6650042548,,USA,Austin,18,Male,Credit Card,Pending,428.11
+C0252,Sarah Singh,sarah.singh87@outlook.com,Unknown,,USA,Seattle,26,Female,PayPal,Refunded,378.78
+C0253,Emily Gupta,emily.gupta17@gmail.com,6591497501,26-11-2024,UK,London,43,Male,Cash on Delivery,Refunded,693.03
+C0254,Sneha Rao,Unkown,7849791620,24-04-2022,India,Hyderabad,50,Other,Cash on Delivery,Unkown,1389.44
+C0255,Sneha Gupta,sneha.gupta5@company.in,8883586812,16-08-2024,Canada,Toronto,40,Male,PayPal,Cancelled,1324.22
+C0256,Rohan Gupta,rohan.gupta6@gmail.com,7312661094,24-09-2025,UK,Manchester,28,Other,UPI,Completed,163.8
+C0257,John Brown,john.brown81@gmail.com,8287339785,11-01-2022,USA,New York,69,Male,Credit Card,Refunded,542.54
+C0258,Arjun Iyer,arjun.iyer37@gmail.com,6974005643,05-06-2025,UK,London,33,Male,Debit Card,Completed,752.57
+C0259,Emily Khan,emily.khan14@gmail.com,6038960870,02-06-2024,USA,Austin,32,Female,PayPal,Pending,719
+C0260,Emily Gupta,emily.gupta8@gmail.com,7967111483,31-03-2022,India,Kurnool,46,Female,PayPal,Cancelled,474.62
+C0261,Vikram Davis,vikram.davis16@outlook.com,6704496410,27-04-2023,USA,Austin,43,Other,PayPal,Refunded,
+C0262,Arjun Brown,Unkown,9699842673,27-04-2022,USA,New York,45,Male,Credit Card,Cancelled,1212.06
+C0263,Ananya Khan,ananya.khan2@gmail.com,8172444723,13-02-2025,Canada,Toronto,40,Female,Debit Card,Completed,330.67
+C0264,Kavya Rao,kavya.rao45@gmail.com,9164205955,08-06-2022,India,Mumbai,46,Female,UPI,Completed,359.28
+C0265,Karthik Iyer,karthik.iyer49@gmail.com,6978875439,22-03-2025,India,Delhi,32,Male,UPI,Refunded,947.33
+C0266,Imran Brown,imran.brown69@yahoo.com,6166829732,,Canada,Toronto,44,Male,PayPal,Refunded,211.52
+C0267,Emily Patel,emily.patel44@company.in,9647229812,03-04-2022,UK,London,24,Other,PayPal,Refunded,115.26
+C0268,Rohan Iyer,rohan.iyer6@yahoo.com,8773244913,,UK,London,35,Male,Debit Card,Completed,474.98
+C0269,Imran Singh,imran.singh57@gmail.com,7152854781,,India,Delhi,23,Female,PayPal,Cancelled,1098.8
+C0270,Fatima Davis,fatima.davis37@yahoo.com,7064969357,15-03-2023,USA,Seattle,23,Male,Debit Card,Refunded,9.78
+C0271,Lakshmi Reddy,lakshmi.reddy85@gmail.com,7044836085,17-09-2024,USA,Austin,43,Female,PayPal,Refunded,1260.98
+C0272,Sneha Gupta,Unkown,6835832863,14-11-2023,UK,London,23,Male,UPI,Pending,
+C0273,Arjun Johnson,arjun.johnson17@outlook.com,6963945680,11-02-2022,India,Chennai,30,Female,Credit Card,Refunded,
+C0274,Emily Johnson,emily.johnson74@gmail.com,6182379312,03-09-2024,India,Chennai,43,Female,Credit Card,Cancelled,846.91
+C0275,Divya Kumar,divya.kumar14@gmail.com,6067287286,28-01-2022,Canada,Vancouver,42,Male,PayPal,Cancelled,247.33
+C0276,Rohan Johnson,rohan.johnson2@outlook.com,8109792158,12-01-2022,USA,New York,27,Female,UPI,Refunded,471.2
+C0277,Michael Reddy,michael.reddy43@company.in,7319222705,15-06-2025,USA,Seattle,55,Male,PayPal,Cancelled,1004.4
+C0278,Ananya Smith,ananya.smith72@gmail.com,8756398365,04-09-2022,UK,Unkown,43,Female,PayPal,Pending,839.07
+C0279,Arjun Smith,arjun.smith92@gmail.com,6509222161,22-12-2022,India,Mumbai,58,Male,Credit Card,Unkown,712.81
+C0280,Suresh Iyer,suresh.iyer98@company.in,Unknown,02-04-2022,India,Kurnool,30,Male,Credit Card,Completed,416.91
+C0281,Karthik Johnson,karthik.johnson49@outlook.com,Unknown,27-04-2024,USA,Austin,26,Female,Debit Card,Refunded,342.81
+C0282,Rahul Rao,rahul.rao60@outlook.com,9905150267,16-07-2025,USA,Austin,25,Female,UPI,Pending,283.71
+C0283,Unkown,fatima.smith30@company.in,8983922501,28-03-2025,Canada,Vancouver,45,Male,PayPal,Pending,604.12
+C0284,Aarav Khan,aarav.khan61@company.in,6625265469,25-08-2024,USA,Austin,62,Female,PayPal,Pending,1004.31
+C0285,Lakshmi Reddy,lakshmi.reddy55@yahoo.com,9817151602,11-09-2024,UK,Manchester,42,Male,Credit Card,Refunded,57.07
+C0286,Kavya Reddy,kavya.reddy87@gmail.com,9607401775,,USA,Unkown,39,Unkown,PayPal,Cancelled,390.47
+C0287,Vikram Johnson,vikram.johnson56@outlook.com,6155029168,15-05-2023,USA,Seattle,47,Male,PayPal,Completed,1378.57
+C0288,Divya Johnson,divya.johnson28@gmail.com,8406306244,21-07-2023,India,Bengaluru,62,Male,Debit Card,Completed,754.84
+C0289,Rohan Kumar,rohan.kumar96@gmail.com,9851385445,09-03-2024,Canada,Toronto,62,Female,Debit Card,Cancelled,387.26
+C0290,Suresh Patel,Unkown,Unknown,31-01-2025,USA,New York,65,Male,UPI,Pending,615.73
+C0291,Sarah Patel,sarah.patel77@company.in,6968832753,27-05-2023,USA,Seattle,19,Female,Debit Card,Completed,253.86
+C0292,Ananya Patel,ananya.patel96@gmail.com,6980770460,20-08-2024,Canada,Toronto,44,Male,Credit Card,Pending,1293.94
+C0293,Rahul Khan,rahul.khan44@outlook.com,8035954429,13-06-2023,Canada,Toronto,39,Unkown,UPI,Pending,854.51
+C0294,Suresh Khan,suresh.khan76@company.in,9015343324,20-09-2024,USA,Austin,41,Other,UPI,Refunded,974.32
+C0295,Rohan Rao,rohan.rao8@gmail.com,9209484131,10-01-2023,India,Bengaluru,33,Female,Debit Card,Pending,1036.1
+C0296,Fatima Singh,fatima.singh15@gmail.com,9947258784,,India,Mumbai,30,Male,UPI,Cancelled,923.55
+C0297,Emily Davis,emily.davis98@yahoo.com,7523622925,22-12-2024,USA,New York,50,Female,UPI,Unkown,710.45
+C0298,Priya Iyer,Unkown,Unknown,17-09-2025,UK,London,63,Female,Debit Card,Cancelled,1076.43
+C0299,Priya Reddy,priya.reddy36@company.in,7949381735,03-10-2022,India,Delhi,36,Male,Credit Card,Completed,1321.87
+C0300,Sarah Johnson,sarah.johnson83@gmail.com,9085874951,09-04-2022,India,Hyderabad,69,Male,Cash on Delivery,Pending,1248.35
+C0301,Rohan Reddy,rohan.reddy59@company.in,9003562439,,USA,Unkown,65,Male,Debit Card,Pending,1334.65
+C0302,Karthik Patel,karthik.patel35@yahoo.com,9073607763,25-02-2022,UK,London,31,Other,Credit Card,Completed,210.28
+C0303,Sneha Khan,sneha.khan54@gmail.com,6670450232,27-09-2023,India,Kurnool,24,Male,Debit Card,Completed,1255.62
+C0304,Ananya Kumar,ananya.kumar64@yahoo.com,9026086982,28-06-2023,India,Hyderabad,58,Male,Debit Card,Refunded,934.76
+C0305,Vikram Kumar,vikram.kumar64@company.in,Unknown,20-10-2022,UK,London,32,Female,UPI,Cancelled,
+C0306,Aarav Gupta,aarav.gupta25@company.in,Unknown,23-06-2023,Canada,Vancouver,31,Male,UPI,Completed,821.08
+C0307,John Naidu,john.naidu88@yahoo.com,6858382521,26-12-2023,Canada,Toronto,30,Female,Cash on Delivery,Pending,790.73
+C0308,Emily Smith,emily.smith8@gmail.com,7351342619,12-05-2023,UK,London,48,Male,Debit Card,Cancelled,589.9
+C0309,Rohan Singh,rohan.singh15@gmail.com,8376601444,24-09-2024,India,Chennai,28,Female,UPI,Completed,1138.9
+C0310,Suresh Gupta,suresh.gupta76@gmail.com,9057798066,04-05-2023,Canada,Toronto,25,Female,Credit Card,Completed,544.25
+C0311,Imran Johnson,imran.johnson72@company.in,8598354116,15-12-2023,UK,London,65,Other,PayPal,Cancelled,1172.55
+C0312,Emily Rao,emily.rao26@gmail.com,9261499153,20-09-2025,USA,Austin,56,Unkown,Cash on Delivery,Cancelled,609.93
+C0313,Imran Iyer,imran.iyer67@company.in,8655358512,03-03-2024,USA,Austin,54,Female,Credit Card,Refunded,1121.46
+C0314,Sarah Khan,sarah.khan22@gmail.com,6494097626,13-12-2023,Canada,Vancouver,53,Unkown,Cash on Delivery,Cancelled,717.56
+C0315,Rahul Gupta,rahul.gupta94@yahoo.com,Unknown,03-01-2023,India,Mumbai,33,Other,UPI,Unkown,1254.43
+C0316,Priya Rao,Unkown,Unknown,27-02-2024,India,Delhi,43,Female,Cash on Delivery,Refunded,462.86
+C0317,Meera Reddy,meera.reddy13@gmail.com,9181535237,22-11-2023,UK,London,27,Male,UPI,Refunded,1407.04
+C0318,Karthik Singh,karthik.singh98@yahoo.com,9964740803,10-06-2024,UK,London,58,Other,Credit Card,Completed,568.72
+C0319,Priya Patel,priya.patel29@outlook.com,6403526356,15-03-2025,India,Chennai,31,Male,Cash on Delivery,Refunded,962.43
+C0320,Karthik Davis,karthik.davis81@gmail.com,9128524648,19-09-2025,Canada,Vancouver,67,Female,Credit Card,Pending,1035.8
+C0321,Unkown,divya.iyer57@company.in,7542573066,23-01-2023,UK,Manchester,60,Male,Debit Card,Cancelled,1153.98
+C0322,Sarah Johnson,sarah.johnson48@gmail.com,6309810796,13-01-2022,USA,Seattle,24,Male,PayPal,Refunded,574.91
+C0323,Suresh Singh,suresh.singh56@outlook.com,8366677767,13-01-2025,USA,Austin,47,Male,Debit Card,Pending,1278.27
+C0324,Suresh Naidu,suresh.naidu39@company.in,9036924926,03-02-2025,Canada,Toronto,30,Male,PayPal,Refunded,1335.44
+C0325,Aarav Davis,aarav.davis41@outlook.com,9752441822,22-09-2023,India,Bengaluru,27,Female,Unkown,Cancelled,1261.81
+C0326,Kavya Khan,kavya.khan63@company.in,Unknown,28-01-2024,USA,Austin,39,Male,UPI,Pending,107.99
+C0327,Imran Smith,Unkown,8655866525,13-02-2023,India,Bengaluru,43,Male,PayPal,Cancelled,1357.28
+C0328,Kavya Reddy,Unkown,9519102312,30-11-2023,USA,Seattle,18,Male,PayPal,Pending,1305.89
+C0329,Priya Khan,priya.khan11@yahoo.com,6325326949,15-01-2025,USA,Seattle,34,Female,PayPal,Cancelled,865.27
+C0330,Rahul Smith,rahul.smith41@company.in,8757574758,25-05-2025,Canada,Toronto,41,Male,Credit Card,Refunded,1018.9
+C0331,Vikram Brown,Unkown,9724530762,20-12-2022,UK,Manchester,68,Female,Debit Card,Refunded,230.8
+C0332,Fatima Brown,fatima.brown2@outlook.com,8552597107,01-11-2025,USA,Austin,39,Female,UPI,Pending,929.63
+C0333,Divya Johnson,divya.johnson73@gmail.com,9794176342,15-07-2022,USA,New York,38,Female,Debit Card,Completed,579.29
+C0334,Sarah Gupta,sarah.gupta95@yahoo.com,7240061572,10-02-2024,India,Bengaluru,50,Unkown,Cash on Delivery,Cancelled,637.37
+C0335,Rohan Davis,rohan.davis83@outlook.com,6271122182,12-03-2022,Canada,Toronto,38,Female,UPI,Completed,967.21
+C0336,Arjun Patel,arjun.patel7@yahoo.com,8660847068,22-04-2023,USA,New York,20,Unkown,Debit Card,Refunded,1425.2
+C0337,John Iyer,john.iyer43@yahoo.com,9321061339,25-08-2025,USA,New York,34,Female,Cash on Delivery,Cancelled,431.65
+C0338,Suresh Johnson,suresh.johnson78@yahoo.com,6009004047,08-08-2023,UK,Manchester,43,Female,Credit Card,Pending,1193.53
+C0339,Karthik Reddy,karthik.reddy2@gmail.com,9123166007,02-04-2025,India,Chennai,33,Male,Debit Card,Completed,1043.9
+C0340,Priya Davis,priya.davis92@gmail.com,8882556296,23-07-2024,Canada,Vancouver,23,Female,Debit Card,Refunded,1231.97
+C0341,Vikram Gupta,vikram.gupta27@gmail.com,7357155868,23-10-2024,UK,London,44,Unkown,Cash on Delivery,Refunded,818.28
+C0342,Rahul Johnson,rahul.johnson39@yahoo.com,6147165609,27-01-2023,UK,Unkown,24,Female,Debit Card,Refunded,40.14
+C0343,Sneha Iyer,sneha.iyer49@gmail.com,6765397054,,UK,Manchester,66,Female,Cash on Delivery,Completed,381.98
+C0344,Priya Singh,priya.singh23@gmail.com,9306260423,10-11-2023,Unknown,Delhi,43,Unkown,Debit Card,Completed,642.96
+C0345,Lakshmi Khan,lakshmi.khan72@gmail.com,7102192378,23-09-2025,India,Unkown,23,Unkown,Credit Card,Unkown,539.68
+C0346,Vikram Kumar,vikram.kumar25@gmail.com,7821781923,05-03-2024,USA,Austin,31,Female,Debit Card,Refunded,831.78
+C0347,Fatima Gupta,fatima.gupta77@company.in,6546475489,04-05-2024,Canada,Toronto,25,Male,PayPal,Refunded,104.17
+C0348,Rohan Patel,rohan.patel25@outlook.com,7435885379,09-05-2025,USA,Austin,44,Female,Debit Card,Cancelled,638.65
+C0349,Suresh Davis,suresh.davis25@outlook.com,8067917665,01-02-2025,Canada,Toronto,47,Female,Unkown,Completed,877.46
+C0350,Arjun Singh,arjun.singh29@company.in,8326389021,05-02-2025,Canada,Toronto,66,Male,Credit Card,Pending,533.56
+C0351,Karthik Patel,karthik.patel92@gmail.com,Unknown,13-06-2025,India,Kurnool,65,Male,UPI,Completed,1127.29
+C0352,Michael Patel,michael.patel50@company.in,8547223989,01-07-2024,India,Chennai,43,Male,PayPal,Completed,1364.24
+C0353,Ananya Patel,ananya.patel67@gmail.com,9623039111,18-03-2025,Canada,Vancouver,23,Male,PayPal,Pending,983.66
+C0354,Fatima Naidu,fatima.naidu74@outlook.com,6620478768,14-08-2022,USA,New York,47,Female,Cash on Delivery,Refunded,1071.58
+C0355,Suresh Singh,suresh.singh63@yahoo.com,7463203747,31-07-2025,UK,London,31,Female,Debit Card,Pending,1126.77
+C0356,Meera Kumar,meera.kumar9@outlook.com,6838507659,06-12-2022,Canada,Toronto,37,Male,UPI,Completed,21.53
+C0357,Imran Johnson,imran.johnson98@yahoo.com,7626894301,28-03-2023,UK,London,42,Male,PayPal,Pending,67.63
+C0358,Michael Rao,michael.rao86@company.in,8760944128,18-05-2023,UK,Manchester,35,Other,PayPal,Completed,343.17
+C0359,Suresh Davis,suresh.davis61@gmail.com,9634392529,28-04-2023,Canada,Toronto,41,Male,Unkown,Completed,732.35
+C0360,Kavya Smith,kavya.smith22@outlook.com,9714949819,18-06-2022,UK,London,20,Female,Cash on Delivery,Pending,1482.34
+C0361,Suresh Iyer,suresh.iyer27@yahoo.com,9221455937,,USA,Austin,63,Male,Debit Card,Completed,92.83
+C0362,Imran Naidu,imran.naidu97@company.in,8202389743,03-12-2022,UK,Manchester,43,Other,Credit Card,Cancelled,1431.66
+C0363,Unkown,john.gupta59@company.in,6767993593,23-07-2024,USA,Austin,52,Male,Debit Card,Refunded,71.55
+C0364,Lakshmi Sharma,lakshmi.sharma75@yahoo.com,8283061537,26-08-2022,UK,London,53,Male,Debit Card,Cancelled,1283.57
+C0365,Sneha Davis,sneha.davis99@outlook.com,Unknown,23-11-2023,India,Hyderabad,25,Male,Credit Card,Completed,186.55
+C0366,Sneha Brown,sneha.brown25@company.in,9655300730,18-05-2022,Canada,Toronto,67,Other,UPI,Completed,1464.33
+C0367,Sarah Brown,sarah.brown32@outlook.com,9245618517,07-08-2022,India,Delhi,45,Male,Credit Card,Cancelled,87.09
+C0368,Michael Patel,michael.patel36@outlook.com,8841604615,13-06-2022,India,Hyderabad,53,Female,Credit Card,Completed,1218.31
+C0369,Michael Johnson,michael.johnson61@yahoo.com,8937830639,29-10-2025,India,Delhi,26,Male,UPI,Refunded,
+C0370,Arjun Johnson,arjun.johnson83@company.in,9234190310,24-03-2022,USA,Seattle,60,Male,PayPal,Pending,350.13
+C0371,Divya Khan,Unkown,8244260781,03-05-2022,Canada,Vancouver,47,Female,Debit Card,Pending,1123.74
+C0372,Vikram Reddy,vikram.reddy89@gmail.com,6344389982,28-09-2023,UK,Manchester,60,Female,Credit Card,Refunded,1120.87
+C0373,Sarah Gupta,sarah.gupta61@company.in,Unknown,20-11-2023,Unknown,London,33,Male,PayPal,Completed,538.54
+C0374,Rahul Kumar,Unkown,6736511893,09-05-2023,USA,Seattle,52,Male,UPI,Refunded,71.03
+C0375,Karthik Naidu,karthik.naidu85@gmail.com,9212760250,23-02-2023,UK,Manchester,43,Male,Credit Card,Pending,553.13
+C0376,Michael Kumar,michael.kumar58@gmail.com,8687191203,09-10-2023,Canada,Toronto,68,Male,PayPal,Completed,394.04
+C0377,Arjun Singh,arjun.singh6@gmail.com,6681572450,28-03-2023,UK,London,31,Male,Credit Card,Completed,1049.67
+C0378,Unkown,sarah.sharma49@gmail.com,Unknown,22-08-2023,USA,Austin,50,Male,PayPal,Refunded,394.9
+C0379,Sneha Patel,sneha.patel66@yahoo.com,Unknown,20-01-2024,Canada,Toronto,41,Female,Unkown,Pending,468.64
+C0380,Ananya Rao,ananya.rao67@yahoo.com,7694289464,19-08-2025,Canada,Vancouver,66,Male,Debit Card,Refunded,100.93
+C0381,Meera Davis,meera.davis30@outlook.com,9646448988,28-01-2023,India,Hyderabad,43,Male,UPI,Pending,1439.03
+C0382,Karthik Patel,karthik.patel76@outlook.com,9871809339,31-03-2023,UK,London,25,Female,Debit Card,Refunded,1211.02
+C0383,Suresh Reddy,suresh.reddy2@yahoo.com,7980365774,02-03-2022,Canada,Vancouver,19,Male,Credit Card,Pending,881.2
+C0384,Divya Patel,divya.patel4@company.in,7745561140,19-11-2022,Canada,Vancouver,44,Male,Cash on Delivery,Completed,1412.69
+C0385,Aarav Sharma,aarav.sharma47@gmail.com,7123455068,02-03-2024,USA,New York,25,Female,Unkown,Refunded,235.22
+C0386,Karthik Kumar,karthik.kumar86@company.in,6157090859,05-04-2022,UK,London,51,Female,UPI,Pending,321.88
+C0387,Meera Davis,meera.davis19@company.in,Unknown,10-03-2025,Canada,Toronto,55,Unkown,Cash on Delivery,Refunded,376.06
+C0388,Divya Rao,divya.rao84@yahoo.com,Unknown,23-02-2025,USA,Austin,51,Male,Cash on Delivery,Pending,1136.73
+C0389,Vikram Brown,vikram.brown74@outlook.com,8840027300,29-01-2023,USA,Seattle,66,Male,Cash on Delivery,Unkown,1166.94
+C0390,Suresh Rao,suresh.rao11@outlook.com,7976205344,21-10-2023,India,Mumbai,22,Male,Cash on Delivery,Refunded,
+C0391,Fatima Iyer,Unkown,6255235617,23-06-2023,India,Hyderabad,51,Female,Debit Card,Completed,105.4
+C0392,Karthik Patel,karthik.patel40@outlook.com,Unknown,31-03-2025,Canada,Toronto,64,Male,Cash on Delivery,Pending,487.92
+C0393,Sneha Smith,sneha.smith22@company.in,7182856053,27-05-2025,USA,Austin,65,Female,PayPal,Unkown,659.71
+C0394,Aarav Iyer,aarav.iyer24@yahoo.com,8871469218,26-06-2022,USA,New York,38,Female,Cash on Delivery,Cancelled,1488.27
+C0395,Ananya Naidu,ananya.naidu78@yahoo.com,8959881145,10-05-2025,India,Bengaluru,52,Male,Credit Card,Completed,1076.54
+C0396,Rahul Gupta,rahul.gupta64@company.in,7258937085,01-07-2025,India,Delhi,42,Other,Unkown,Cancelled,864.02
+C0397,Arjun Rao,arjun.rao48@outlook.com,7289463389,30-04-2025,USA,Seattle,51,Female,UPI,Cancelled,594.13
+C0398,Divya Kumar,divya.kumar65@gmail.com,8095744303,22-02-2022,UK,Unkown,43,Male,Credit Card,Refunded,1427.68
+C0399,Rohan Patel,Unkown,6094214105,10-12-2024,India,Hyderabad,70,Other,Cash on Delivery,Completed,150.58
+C0400,Lakshmi Iyer,lakshmi.iyer97@gmail.com,8859655942,10-12-2022,India,Bengaluru,35,Male,Credit Card,Cancelled,211.64
+C0401,Sneha Brown,sneha.brown27@gmail.com,8448896699,21-07-2025,UK,Manchester,43,Male,Debit Card,Refunded,951.34
+C0402,Rahul Rao,rahul.rao95@yahoo.com,6060183647,27-05-2025,USA,New York,22,Male,UPI,Pending,219.1
+C0403,Vikram Iyer,vikram.iyer42@yahoo.com,6608271721,03-10-2025,USA,Seattle,50,Male,PayPal,Pending,1114.14
+C0404,Michael Reddy,michael.reddy31@yahoo.com,8461777326,16-05-2023,UK,London,43,Male,UPI,Refunded,1185.08
+C0405,Sarah Khan,sarah.khan63@outlook.com,8608320048,28-11-2024,Canada,Toronto,53,Female,UPI,Unkown,368.33
+C0406,Divya Iyer,divya.iyer15@gmail.com,7950143748,14-03-2025,India,Mumbai,28,Male,Credit Card,Refunded,1348.32
+C0407,Imran Iyer,imran.iyer15@company.in,6725873393,23-02-2024,Canada,Toronto,25,Male,PayPal,Pending,607.02
+C0408,Suresh Smith,suresh.smith74@outlook.com,Unknown,09-02-2024,USA,Austin,27,Female,Unkown,Pending,197.57
+C0409,Vikram Sharma,vikram.sharma55@gmail.com,Unknown,15-02-2025,USA,Austin,28,Female,UPI,Cancelled,744.81
+C0410,Fatima Gupta,fatima.gupta40@company.in,8712476010,14-12-2023,Canada,Vancouver,46,Male,Credit Card,Completed,561.09
+C0411,Unkown,imran.reddy93@gmail.com,6735104584,22-06-2022,USA,Seattle,63,Other,Debit Card,Pending,
+C0412,Karthik Gupta,karthik.gupta33@gmail.com,9000466614,,Canada,Toronto,45,Female,Credit Card,Refunded,533.08
+C0413,Arjun Gupta,arjun.gupta86@gmail.com,9698731379,04-06-2025,India,Bengaluru,29,Female,PayPal,Completed,915.23
+C0414,Karthik Johnson,karthik.johnson2@gmail.com,Unknown,01-06-2024,UK,London,34,Male,Credit Card,Completed,1272.94
+C0415,Aarav Johnson,aarav.johnson70@gmail.com,Unknown,26-11-2022,UK,London,37,Female,PayPal,Cancelled,1137.96
+C0416,Fatima Smith,fatima.smith72@company.in,6409531419,30-03-2025,UK,London,64,Other,Credit Card,Pending,1415.19
+C0417,Suresh Naidu,suresh.naidu90@outlook.com,Unknown,25-05-2023,UK,London,42,Male,UPI,Pending,1081.93
+C0418,Arjun Iyer,arjun.iyer78@company.in,7592361337,10-05-2022,Canada,Toronto,19,Female,Debit Card,Completed,138.33
+C0419,Sarah Reddy,sarah.reddy25@outlook.com,6824989808,03-04-2024,Canada,Vancouver,68,Other,PayPal,Completed,1268.47
+C0420,Sarah Smith,sarah.smith90@company.in,Unknown,20-02-2024,USA,Seattle,37,Female,Debit Card,Completed,853
+C0421,Unkown,vikram.reddy77@gmail.com,8204664896,01-05-2025,UK,Manchester,18,Unkown,UPI,Cancelled,985.82
+C0422,Divya Patel,divya.patel32@outlook.com,8016599530,25-09-2022,India,Chennai,43,Male,Debit Card,Pending,1282.16
+C0423,Sneha Reddy,sneha.reddy12@outlook.com,6801798677,30-05-2023,USA,Austin,50,Male,Debit Card,Refunded,802.45
+C0424,Karthik Rao,karthik.rao44@yahoo.com,7548242183,01-03-2024,UK,London,62,Other,UPI,Completed,1300.27
+C0425,Imran Singh,imran.singh57@gmail.com,7886217508,14-08-2025,Canada,Toronto,33,Other,Debit Card,Cancelled,964.07
+C0426,Divya Singh,divya.singh66@gmail.com,Unknown,31-10-2024,India,Kurnool,43,Male,Credit Card,Pending,433.48
+C0427,John Smith,john.smith76@company.in,Unknown,11-05-2025,UK,Manchester,27,Female,Debit Card,Pending,96.08
+C0428,Suresh Davis,Unkown,6023200186,14-02-2025,USA,Seattle,21,Female,Credit Card,Refunded,1386.56
+C0429,Divya Smith,divya.smith62@outlook.com,8100307620,01-02-2025,India,Mumbai,66,Male,Cash on Delivery,Refunded,964.06
+C0430,Rahul Johnson,rahul.johnson37@gmail.com,9089058366,27-03-2024,India,Delhi,52,Female,PayPal,Pending,923.11
+C0431,Sarah Reddy,sarah.reddy76@gmail.com,6126578982,12-03-2025,UK,London,47,Female,Cash on Delivery,Cancelled,684.43
+C0432,Suresh Gupta,suresh.gupta70@company.in,7975891704,27-04-2025,USA,Unkown,23,Male,Debit Card,Cancelled,607.2
+C0433,Aarav Johnson,aarav.johnson29@outlook.com,7895400178,09-03-2023,India,Kurnool,21,Unkown,Debit Card,Refunded,1241.78
+C0434,Priya Reddy,priya.reddy1@company.in,6053709230,12-08-2022,India,Mumbai,47,Female,Cash on Delivery,Completed,1471.68
+C0435,Vikram Brown,vikram.brown53@outlook.com,7734813104,25-08-2024,Canada,Vancouver,34,Female,Cash on Delivery,Pending,1150.16
+C0436,Lakshmi Rao,lakshmi.rao70@gmail.com,7842536462,19-04-2025,India,Chennai,45,Male,Unkown,Refunded,824.19
+C0437,Rohan Brown,rohan.brown64@outlook.com,9861902547,28-07-2022,UK,London,60,Female,Debit Card,Refunded,1334.78
+C0438,Rohan Brown,rohan.brown21@gmail.com,Unknown,11-06-2022,UK,Unkown,62,Male,Debit Card,Refunded,482.66
+C0439,Sarah Patel,sarah.patel89@company.in,Unknown,06-03-2022,UK,London,35,Male,Debit Card,Cancelled,1318.04
+C0440,Priya Reddy,priya.reddy34@gmail.com,8495300677,22-10-2024,Canada,Vancouver,33,Female,UPI,Pending,404.25
+C0441,Priya Smith,priya.smith29@yahoo.com,Unknown,07-03-2022,USA,Seattle,24,Male,PayPal,Refunded,859.12
+C0442,Rohan Davis,rohan.davis76@company.in,7027558214,06-04-2022,Unknown,New York,37,Male,Credit Card,Completed,350.26
+C0443,Kavya Rao,kavya.rao93@gmail.com,8881959772,06-08-2022,India,Mumbai,54,Female,Cash on Delivery,Completed,1160.34
+C0444,Ananya Brown,ananya.brown7@gmail.com,8823220414,03-09-2024,UK,Manchester,26,Male,Debit Card,Completed,247.96
+C0445,Arjun Johnson,arjun.johnson17@gmail.com,7816506463,31-07-2022,USA,New York,26,Male,Cash on Delivery,Refunded,369.33
+C0446,Rahul Khan,rahul.khan21@company.in,6966229131,01-03-2022,UK,Manchester,51,Male,UPI,Cancelled,399.19
+C0447,Kavya Sharma,kavya.sharma39@gmail.com,Unknown,07-02-2023,UK,Manchester,45,Female,PayPal,Completed,1028.86
+C0448,John Davis,john.davis77@company.in,9433853247,30-10-2022,India,Mumbai,57,Female,Cash on Delivery,Pending,961.01
+C0449,Arjun Kumar,arjun.kumar64@outlook.com,Unknown,04-07-2023,Canada,Vancouver,43,Female,PayPal,Cancelled,1084.01
+C0450,Rohan Naidu,rohan.naidu48@company.in,Unknown,08-01-2023,Canada,Toronto,37,Male,Cash on Delivery,Pending,173.7
+C0451,Aarav Sharma,aarav.sharma22@yahoo.com,Unknown,29-01-2025,India,Chennai,23,Male,Credit Card,Pending,672.72
+C0452,Lakshmi Iyer,Unkown,9810558000,15-08-2025,UK,Manchester,35,Female,Credit Card,Pending,1241.99
+C0453,Unkown,rahul.khan16@yahoo.com,7973525953,12-11-2022,USA,New York,40,Male,PayPal,Pending,779.56
+C0454,Priya Khan,priya.khan71@gmail.com,7601071261,16-10-2024,Canada,Toronto,29,Male,Credit Card,Refunded,1182.93
+C0455,Vikram Naidu,vikram.naidu82@gmail.com,7256062953,12-11-2022,USA,Seattle,36,Unkown,Debit Card,Pending,522.43
+C0456,Sneha Smith,sneha.smith85@gmail.com,9561547055,15-09-2025,UK,London,42,Male,Credit Card,Completed,90.71
+C0457,Karthik Gupta,karthik.gupta46@yahoo.com,6971212413,07-02-2022,UK,Manchester,43,Male,PayPal,Refunded,384.16
+C0458,Aarav Khan,aarav.khan46@yahoo.com,6654308952,16-03-2025,UK,Manchester,31,Male,Debit Card,Unkown,1350.66
+C0459,Emily Khan,emily.khan70@gmail.com,7656045006,29-04-2025,Canada,Vancouver,37,Female,PayPal,Completed,677.96
+C0460,Karthik Sharma,karthik.sharma23@outlook.com,6594898959,05-08-2024,UK,Manchester,28,Male,PayPal,Cancelled,
+C0461,Sarah Gupta,sarah.gupta91@outlook.com,7230958629,23-03-2025,USA,Seattle,46,Male,Credit Card,Pending,1321.97
+C0462,Kavya Patel,kavya.patel44@gmail.com,9461293900,15-09-2022,UK,Manchester,26,Male,Unkown,Pending,60.75
+C0463,Rahul Gupta,rahul.gupta91@outlook.com,Unknown,02-11-2023,USA,New York,30,Female,PayPal,Pending,597.84
+C0464,Aarav Sharma,aarav.sharma49@company.in,8174304350,01-09-2025,UK,London,27,Other,Debit Card,Cancelled,139.06
+C0465,Vikram Sharma,vikram.sharma74@gmail.com,6675076279,26-03-2023,USA,Austin,18,Other,Credit Card,Cancelled,299.92
+C0466,Vikram Sharma,vikram.sharma59@gmail.com,7405076487,03-02-2022,USA,Seattle,69,Male,PayPal,Cancelled,140.85
+C0467,Fatima Smith,fatima.smith24@yahoo.com,Unknown,12-04-2025,USA,Austin,20,Male,Debit Card,Completed,1174
+C0468,Unkown,rahul.khan89@gmail.com,8295171222,23-12-2023,India,Chennai,32,Female,Debit Card,Pending,159.84
+C0469,Karthik Johnson,karthik.johnson26@outlook.com,Unknown,07-02-2022,India,Delhi,46,Other,Cash on Delivery,Pending,460.58
+C0470,Fatima Khan,fatima.khan46@company.in,8922941156,17-12-2023,UK,London,30,Female,UPI,Refunded,816.39
+C0471,Rohan Smith,rohan.smith13@yahoo.com,7211221215,07-01-2025,UK,London,24,Male,Cash on Delivery,Refunded,1141.62
+C0472,Vikram Davis,vikram.davis23@company.in,Unknown,10-12-2024,India,Kurnool,49,Male,Cash on Delivery,Refunded,723.26
+C0473,Michael Brown,michael.brown79@gmail.com,6283180036,02-06-2025,India,Kurnool,43,Female,Credit Card,Completed,893.12
+C0474,Divya Rao,divya.rao54@company.in,7763328389,06-06-2025,India,Bengaluru,67,Male,PayPal,Completed,98.36
+C0475,Sneha Sharma,sneha.sharma85@company.in,7527918750,31-05-2025,India,Hyderabad,30,Male,Credit Card,Refunded,232.77
+C0476,Sarah Khan,sarah.khan65@gmail.com,Unknown,28-12-2024,Canada,Toronto,55,Male,Debit Card,Refunded,966.66
+C0477,Vikram Gupta,vikram.gupta81@gmail.com,9708089747,23-04-2025,India,Chennai,57,Other,PayPal,Completed,1482.75
+C0478,Emily Reddy,emily.reddy34@outlook.com,7102627066,19-09-2025,Canada,Vancouver,68,Male,Cash on Delivery,Cancelled,961.81
+C0479,Emily Patel,emily.patel71@outlook.com,6566199530,04-07-2024,Canada,Vancouver,43,Male,Cash on Delivery,Pending,1183.51
+C0480,Ananya Iyer,ananya.iyer81@yahoo.com,6674568652,18-04-2023,India,Kurnool,62,Male,Debit Card,Cancelled,410.72
+C0481,Meera Khan,meera.khan40@gmail.com,6383507124,29-10-2023,India,Bengaluru,37,Male,Credit Card,Completed,561.69
+C0482,Imran Khan,imran.khan69@company.in,8252516185,20-10-2023,USA,Austin,57,Female,PayPal,Completed,1069.99
+C0483,Vikram Singh,vikram.singh60@gmail.com,8378803318,15-03-2025,Canada,Vancouver,37,Female,Debit Card,Pending,691.9
+C0484,Emily Iyer,emily.iyer41@yahoo.com,9801891567,01-11-2023,USA,Austin,62,Female,PayPal,Refunded,1248.44
+C0485,Suresh Smith,suresh.smith7@company.in,7908352118,17-03-2022,Canada,Vancouver,55,Male,Debit Card,Refunded,172.69
+C0486,Kavya Davis,kavya.davis97@company.in,Unknown,28-04-2025,Canada,Vancouver,51,Other,Credit Card,Cancelled,81.76
+C0487,Karthik Smith,karthik.smith97@gmail.com,6459009921,29-03-2025,India,Hyderabad,25,Other,UPI,Pending,372.41
+C0488,Aarav Brown,Unkown,7974255136,24-03-2025,UK,London,65,Male,Cash on Delivery,Completed,365.49
+C0489,Suresh Naidu,suresh.naidu89@outlook.com,6585615473,18-05-2023,Canada,Toronto,56,Female,PayPal,Refunded,317.43
+C0490,Fatima Naidu,fatima.naidu70@company.in,6644161019,19-04-2024,Canada,Toronto,43,Male,UPI,Cancelled,
+C0491,Vikram Davis,vikram.davis87@outlook.com,6676490922,16-04-2023,India,Bengaluru,51,Male,UPI,Cancelled,890.01
+C0492,Lakshmi Brown,lakshmi.brown35@gmail.com,9583336477,06-12-2024,India,Unkown,31,Female,Debit Card,Unkown,1352.21
+C0493,Rahul Smith,rahul.smith79@gmail.com,Unknown,02-10-2022,USA,Unkown,40,Female,Cash on Delivery,Cancelled,15.95
+C0494,Michael Iyer,michael.iyer48@gmail.com,6189003468,15-01-2023,USA,New York,43,Female,Credit Card,Completed,437.97
+C0495,Vikram Reddy,vikram.reddy70@company.in,Unknown,23-05-2025,UK,London,39,Other,Debit Card,Completed,472.92
+C0496,Arjun Johnson,arjun.johnson15@company.in,9023442252,21-05-2022,Canada,Toronto,43,Male,Debit Card,Pending,713.57
+C0497,Ananya Iyer,ananya.iyer54@outlook.com,6245598516,21-08-2024,India,Hyderabad,32,Female,Cash on Delivery,Cancelled,616.42
+C0498,John Smith,john.smith60@gmail.com,Unknown,06-07-2023,Canada,Toronto,18,Male,PayPal,Completed,471.38
+C0499,Rohan Patel,Unkown,Unknown,29-08-2022,UK,Manchester,20,Male,Unkown,Pending,339.88
+C0500,Michael Reddy,Unkown,Unknown,,India,Bengaluru,23,Other,Cash on Delivery,Refunded,232.64
+C0501,Divya Khan,divya.khan41@gmail.com,Unknown,15-06-2023,India,Kurnool,53,Female,PayPal,Refunded,497.94
+C0502,Arjun Smith,arjun.smith89@company.in,7620858174,17-11-2024,Unknown,Hyderabad,26,Male,Debit Card,Pending,672.87
+C0503,Sneha Rao,sneha.rao9@yahoo.com,6079230466,06-02-2022,India,Delhi,38,Male,Cash on Delivery,Pending,433.86
+C0504,Aarav Smith,aarav.smith64@gmail.com,7763460191,14-06-2023,UK,Manchester,38,Male,PayPal,Cancelled,471.52
+C0505,Imran Smith,imran.smith1@company.in,Unknown,04-03-2024,USA,Austin,44,Male,PayPal,Pending,1402.75
+C0506,Karthik Singh,karthik.singh95@gmail.com,8254920644,20-11-2023,India,Bengaluru,25,Male,Credit Card,Refunded,1186.99
+C0507,John Brown,john.brown68@company.in,6102125434,,USA,Seattle,69,Male,Credit Card,Refunded,1489.64
+C0508,Priya Johnson,priya.johnson71@company.in,7171978601,08-03-2022,USA,New York,30,Unkown,UPI,Completed,
+C0509,Rohan Rao,rohan.rao3@gmail.com,6371616088,27-06-2024,USA,Seattle,53,Male,Debit Card,Unkown,786.27
+C0510,Meera Rao,meera.rao46@gmail.com,7362216906,26-08-2025,India,Delhi,43,Female,PayPal,Refunded,389.06
+C0511,Vikram Reddy,vikram.reddy53@outlook.com,7431983924,20-01-2022,UK,London,30,Male,Debit Card,Completed,330.29
+C0512,Kavya Brown,kavya.brown92@yahoo.com,Unknown,22-04-2023,Canada,Vancouver,57,Male,Debit Card,Cancelled,468.24
+C0513,Arjun Naidu,arjun.naidu21@yahoo.com,9772051710,23-08-2023,Canada,Toronto,19,Female,Credit Card,Unkown,655.52
+C0514,Imran Singh,imran.singh91@gmail.com,9272884076,26-02-2025,India,Bengaluru,42,Male,PayPal,Pending,263.27
+C0515,Karthik Rao,karthik.rao53@gmail.com,8534050892,07-12-2024,Canada,Vancouver,51,Female,UPI,Refunded,1490.5
+C0516,Kavya Singh,kavya.singh76@gmail.com,7732022271,29-10-2022,USA,Austin,68,Male,UPI,Refunded,1268.39
+C0517,Emily Patel,emily.patel14@gmail.com,6142647106,,India,Bengaluru,18,Male,PayPal,Pending,284.83
+C0518,Arjun Iyer,arjun.iyer21@company.in,6654025998,10-05-2023,USA,New York,46,Female,Cash on Delivery,Pending,1374.24
+C0519,Michael Davis,michael.davis56@gmail.com,Unknown,18-12-2022,Canada,Toronto,59,Male,Credit Card,Refunded,683.16
+C0520,Rahul Kumar,rahul.kumar36@outlook.com,7023510255,22-12-2022,UK,London,20,Female,Cash on Delivery,Cancelled,1348.63
+C0521,Divya Patel,divya.patel51@yahoo.com,Unknown,24-02-2022,USA,Austin,43,Male,UPI,Pending,523.5
+C0522,Arjun Smith,arjun.smith58@outlook.com,8362647528,,India,Mumbai,68,Female,Credit Card,Completed,275.31
+C0523,Sneha Reddy,sneha.reddy46@gmail.com,6877972479,13-10-2022,UK,London,35,Unkown,Debit Card,Pending,155.05
+C0524,Suresh Davis,suresh.davis97@yahoo.com,9846408585,15-07-2022,USA,New York,53,Male,Cash on Delivery,Cancelled,540.16
+C0525,Rohan Johnson,rohan.johnson22@company.in,9247286394,,UK,London,29,Female,Debit Card,Pending,1133.7
+C0526,Arjun Davis,arjun.davis56@yahoo.com,6933538922,,UK,London,43,Female,Credit Card,Pending,63.81
+C0527,Priya Khan,priya.khan37@yahoo.com,Unknown,22-01-2022,Canada,Toronto,63,Other,Cash on Delivery,Cancelled,27.01
+C0528,Suresh Rao,suresh.rao97@gmail.com,9175518870,30-05-2023,UK,Manchester,62,Male,Debit Card,Pending,908.59
+C0529,John Davis,john.davis73@gmail.com,6472386410,28-01-2024,Canada,Vancouver,36,Male,Cash on Delivery,Cancelled,
+C0530,Arjun Smith,arjun.smith63@gmail.com,Unknown,31-10-2024,Canada,Toronto,43,Male,Debit Card,Completed,1434.5
+C0531,Sneha Sharma,sneha.sharma90@gmail.com,6337469833,18-08-2023,UK,Manchester,53,Male,Debit Card,Refunded,1464.56
+C0532,Sarah Sharma,sarah.sharma28@company.in,Unknown,06-04-2022,Canada,Vancouver,61,Female,Debit Card,Refunded,583.88
+C0533,Rahul Iyer,rahul.iyer61@yahoo.com,Unknown,08-11-2024,USA,Seattle,55,Female,UPI,Cancelled,1259.76
+C0534,Sarah Johnson,sarah.johnson46@company.in,9305498243,19-02-2024,Unknown,Kurnool,44,Female,Credit Card,Completed,900.23
+C0535,Michael Davis,michael.davis84@outlook.com,6370170926,09-09-2025,India,Kurnool,55,Male,Credit Card,Completed,217.17
+C0536,Meera Davis,meera.davis59@yahoo.com,Unknown,26-11-2023,UK,London,60,Other,PayPal,Pending,1427.36
+C0537,Unkown,arjun.singh77@gmail.com,6204242536,16-11-2023,UK,London,29,Other,Unkown,Cancelled,1497.49
+C0538,Suresh Kumar,suresh.kumar6@outlook.com,8403648821,08-06-2023,USA,Seattle,62,Male,PayPal,Cancelled,754.34
+C0539,Meera Gupta,meera.gupta75@outlook.com,7986226992,27-09-2025,India,Hyderabad,49,Male,Credit Card,Refunded,1358.08
+C0540,Unkown,divya.patel72@company.in,7482084931,19-01-2023,UK,Manchester,49,Male,Debit Card,Refunded,561.39
+C0541,Divya Davis,divya.davis28@outlook.com,6998656422,23-03-2025,India,Bengaluru,31,Male,Credit Card,Pending,746.08
+C0542,Michael Davis,michael.davis52@company.in,6869572404,19-05-2023,India,Delhi,43,Female,UPI,Pending,943.78
+C0543,Kavya Sharma,Unkown,6938733703,,USA,Austin,29,Female,UPI,Refunded,1044.04
+C0544,Fatima Iyer,fatima.iyer61@gmail.com,8145634091,02-01-2024,UK,London,62,Male,UPI,Completed,139.29
+C0545,Fatima Sharma,fatima.sharma76@yahoo.com,7982218039,,India,Unkown,43,Male,Debit Card,Refunded,1339.72
+C0546,Lakshmi Johnson,lakshmi.johnson44@gmail.com,6670898709,23-05-2025,USA,New York,21,Male,Cash on Delivery,Pending,1478.25
+C0547,Divya Naidu,divya.naidu5@outlook.com,6774544708,22-11-2022,India,Kurnool,69,Female,Credit Card,Completed,224.38
+C0548,Ananya Patel,ananya.patel47@yahoo.com,9036860506,31-05-2022,UK,Manchester,43,Male,Debit Card,Completed,
+C0549,Ananya Sharma,ananya.sharma19@outlook.com,9953192600,20-11-2022,USA,Seattle,56,Other,Credit Card,Refunded,1034.4
+C0550,Unkown,sarah.singh66@gmail.com,7445662295,05-09-2022,UK,Manchester,19,Female,Credit Card,Refunded,1078.96
+C0551,Suresh Sharma,suresh.sharma9@outlook.com,6560587905,26-10-2025,USA,New York,25,Female,Credit Card,Pending,11.53
+C0552,Michael Sharma,michael.sharma74@gmail.com,9936561833,24-12-2024,UK,Manchester,51,Male,Cash on Delivery,Refunded,599.8
+C0553,Aarav Brown,aarav.brown21@gmail.com,7239644028,21-03-2023,India,Mumbai,45,Female,PayPal,Refunded,288.53
+C0554,Vikram Patel,vikram.patel33@gmail.com,Unknown,25-12-2022,USA,New York,57,Female,Unkown,Cancelled,776.82
+C0555,Meera Patel,meera.patel24@gmail.com,6680664707,20-09-2022,USA,Seattle,64,Unkown,Credit Card,Refunded,741.68
+C0556,Fatima Singh,fatima.singh61@outlook.com,6036385646,10-10-2022,India,Delhi,45,Male,UPI,Refunded,560.02
+C0557,Rahul Singh,Unkown,7239461212,17-09-2025,Canada,Toronto,56,Male,UPI,Cancelled,315.27
+C0558,Meera Khan,meera.khan44@gmail.com,7378870584,03-10-2024,UK,London,65,Male,Credit Card,Cancelled,101
+C0559,Arjun Gupta,arjun.gupta1@company.in,7616620165,19-03-2024,Canada,Toronto,46,Male,UPI,Unkown,1206.96
+C0560,Suresh Rao,suresh.rao68@yahoo.com,8441899740,29-04-2024,Canada,Vancouver,43,Female,Cash on Delivery,Refunded,577.01
+C0561,Arjun Naidu,arjun.naidu8@yahoo.com,8134909619,10-04-2022,USA,Seattle,62,Female,Debit Card,Cancelled,813.13
+C0562,Fatima Singh,fatima.singh64@yahoo.com,9029442031,12-04-2025,India,Mumbai,43,Male,UPI,Cancelled,1243.44
+C0563,Sneha Smith,sneha.smith95@outlook.com,8868419623,22-11-2022,UK,London,61,Male,PayPal,Cancelled,306.19
+C0564,Ananya Davis,ananya.davis48@gmail.com,9559469890,,USA,Seattle,51,Male,PayPal,Pending,
+C0565,Rohan Davis,rohan.davis86@company.in,Unknown,04-04-2025,UK,Manchester,47,Other,Cash on Delivery,Cancelled,487.83
+C0566,Unkown,emily.rao68@gmail.com,7190518812,27-03-2024,Unknown,Vancouver,19,Male,Cash on Delivery,Completed,123.51
+C0567,Emily Gupta,emily.gupta91@company.in,6675789683,29-05-2025,USA,New York,45,Female,Credit Card,Refunded,1353.67
+C0568,Priya Kumar,priya.kumar68@gmail.com,8588311414,01-04-2023,USA,Seattle,61,Male,Debit Card,Completed,
+C0569,Sarah Khan,sarah.khan82@outlook.com,8036640163,23-05-2024,India,Hyderabad,58,Other,Debit Card,Pending,771.01
+C0570,Karthik Johnson,karthik.johnson43@company.in,6651854839,08-08-2025,India,Hyderabad,63,Female,PayPal,Cancelled,249.7
+C0571,Arjun Johnson,arjun.johnson57@gmail.com,Unknown,07-06-2022,India,Chennai,28,Female,PayPal,Completed,
+C0572,Kavya Johnson,kavya.johnson91@yahoo.com,Unknown,15-07-2024,India,Mumbai,30,Male,Debit Card,Cancelled,
+C0573,Rohan Naidu,rohan.naidu16@outlook.com,9564260186,18-05-2023,UK,Manchester,57,Other,Debit Card,Cancelled,1166.41
+C0574,Aarav Patel,aarav.patel96@outlook.com,8867228839,03-03-2023,UK,London,64,Male,Debit Card,Cancelled,1248.46
+C0575,John Rao,john.rao9@yahoo.com,9183085800,09-04-2025,Canada,Vancouver,18,Other,Credit Card,Pending,486.73
+C0576,Sneha Sharma,sneha.sharma39@yahoo.com,9933154230,12-04-2024,Canada,Vancouver,47,Male,Debit Card,Pending,965.26
+C0577,Vikram Sharma,Unkown,7382222400,20-04-2025,Canada,Vancouver,34,Male,Debit Card,Cancelled,851.75
+C0578,Ananya Kumar,ananya.kumar15@yahoo.com,Unknown,19-11-2023,USA,Seattle,64,Male,Cash on Delivery,Refunded,1249.44
+C0579,Michael Rao,michael.rao30@outlook.com,8914762538,30-12-2022,UK,London,67,Male,UPI,Cancelled,1495.93
+C0580,Rohan Smith,rohan.smith72@company.in,8324367924,18-09-2022,USA,Austin,62,Female,Debit Card,Unkown,1144.02
+C0581,Sneha Iyer,sneha.iyer76@yahoo.com,7811683710,,USA,Austin,66,Female,Unkown,Refunded,1182.06
+C0582,Arjun Gupta,arjun.gupta16@outlook.com,8292645633,02-09-2023,USA,New York,30,Male,Cash on Delivery,Completed,1175.58
+C0583,Sarah Iyer,sarah.iyer88@company.in,6163994901,16-08-2022,Canada,Toronto,39,Female,UPI,Refunded,54.13
+C0584,Priya Reddy,priya.reddy5@gmail.com,Unknown,31-03-2024,Canada,Vancouver,52,Female,Cash on Delivery,Completed,20.58
+C0585,Rohan Patel,rohan.patel90@gmail.com,8711713219,26-04-2025,India,Chennai,60,Male,UPI,Completed,154.04
+C0586,Rahul Brown,rahul.brown66@outlook.com,9491619423,20-01-2023,USA,Austin,36,Female,UPI,Completed,909.77
+C0587,Rohan Naidu,rohan.naidu1@yahoo.com,8885669489,14-05-2022,Canada,Vancouver,36,Male,UPI,Cancelled,1401.68
+C0588,Vikram Iyer,Unkown,Unknown,02-09-2024,Canada,Toronto,42,Unkown,Credit Card,Refunded,38.72
+C0589,Kavya Davis,kavya.davis19@company.in,7599940041,05-08-2023,USA,New York,29,Female,PayPal,Pending,24.69
+C0590,Vikram Naidu,vikram.naidu38@gmail.com,Unknown,29-09-2024,USA,New York,60,Other,UPI,Cancelled,837
+C0591,Ananya Reddy,ananya.reddy29@outlook.com,6213974369,21-02-2022,USA,New York,53,Male,Cash on Delivery,Cancelled,1012.16
+C0592,Priya Johnson,priya.johnson67@company.in,8570165276,10-04-2022,UK,Manchester,43,Female,UPI,Completed,585.82
+C0593,Fatima Davis,fatima.davis69@outlook.com,8172415536,29-05-2023,USA,Austin,33,Male,UPI,Cancelled,265.29
+C0594,Rohan Smith,rohan.smith29@gmail.com,7966299172,13-10-2022,UK,Manchester,52,Male,Cash on Delivery,Pending,790.41
+C0595,Aarav Iyer,aarav.iyer97@gmail.com,8022061901,15-04-2025,Unknown,New York,25,Male,UPI,Pending,239.55
+C0596,Unkown,arjun.johnson46@company.in,8323167781,27-06-2025,Canada,Toronto,64,Male,PayPal,Pending,1218.78
+C0597,Lakshmi Johnson,lakshmi.johnson45@yahoo.com,6578061902,06-05-2024,Canada,Vancouver,59,Female,PayPal,Refunded,105.01
+C0598,Suresh Davis,suresh.davis29@gmail.com,7753989231,26-05-2025,UK,Manchester,36,Male,UPI,Refunded,470.8
+C0599,Rohan Patel,rohan.patel13@outlook.com,9351272455,25-12-2023,USA,New York,19,Male,UPI,Refunded,249.68
+C0600,Kavya Davis,kavya.davis53@yahoo.com,7062767293,08-03-2025,India,Kurnool,44,Female,Cash on Delivery,Cancelled,631.12
+C0601,Emily Davis,emily.davis64@company.in,7982147823,30-11-2024,Unknown,Bengaluru,26,Other,Cash on Delivery,Cancelled,440.5
+C0602,Unkown,karthik.sharma20@gmail.com,Unknown,16-10-2025,India,Kurnool,21,Unkown,PayPal,Pending,779.4
+C0603,Priya Reddy,priya.reddy80@outlook.com,8461758080,17-03-2023,USA,New York,23,Male,UPI,Completed,564.43
+C0604,John Smith,john.smith59@outlook.com,8647177840,02-07-2025,USA,Austin,21,Male,PayPal,Refunded,960.55
+C0605,Sneha Reddy,sneha.reddy46@company.in,6583534581,12-02-2023,Canada,Vancouver,51,Male,PayPal,Cancelled,243.95
+C0606,Fatima Kumar,fatima.kumar70@outlook.com,Unknown,23-05-2025,India,Kurnool,43,Female,UPI,Cancelled,1304.17
+C0607,Michael Khan,michael.khan82@gmail.com,6184252786,08-12-2022,USA,Seattle,32,Other,Credit Card,Completed,1425.45
+C0608,Imran Khan,imran.khan16@company.in,9640996833,18-01-2024,India,Mumbai,48,Male,Credit Card,Cancelled,1066.12
+C0609,Rahul Gupta,rahul.gupta80@gmail.com,6150101626,06-09-2024,India,Bengaluru,41,Female,Debit Card,Cancelled,1009.28
+C0610,Rahul Gupta,rahul.gupta74@gmail.com,9432031726,27-02-2024,USA,New York,43,Male,UPI,Unkown,367.49
+C0611,Priya Reddy,priya.reddy41@gmail.com,Unknown,,UK,Manchester,53,Female,Credit Card,Completed,316.66
+C0612,Arjun Reddy,arjun.reddy80@yahoo.com,9280812268,21-07-2025,UK,London,34,Female,UPI,Unkown,668
+C0613,Lakshmi Khan,lakshmi.khan80@company.in,7765016767,12-04-2025,USA,Unkown,26,Male,PayPal,Pending,1481.22
+C0614,Ananya Gupta,ananya.gupta56@gmail.com,9522898907,13-03-2025,USA,New York,62,Male,UPI,Completed,1050.36
+C0615,Unkown,emily.sharma91@outlook.com,7956518871,04-03-2024,UK,London,46,Female,Credit Card,Cancelled,497.84
+C0616,Divya Smith,divya.smith3@gmail.com,Unknown,28-01-2022,India,Hyderabad,27,Male,Credit Card,Completed,100.39
+C0617,Arjun Johnson,arjun.johnson61@outlook.com,8674068735,10-10-2024,Canada,Vancouver,62,Male,Debit Card,Cancelled,1326.77
+C0618,Meera Rao,meera.rao84@company.in,8320775870,02-05-2024,USA,Seattle,43,Male,Debit Card,Pending,1249.03
+C0619,Priya Gupta,priya.gupta52@gmail.com,6773729545,08-02-2023,USA,Seattle,43,Female,Cash on Delivery,Completed,424.14
+C0620,Sneha Singh,sneha.singh9@yahoo.com,8311123590,01-11-2025,USA,Austin,56,Female,UPI,Refunded,1031.56
+C0621,Kavya Kumar,kavya.kumar34@gmail.com,8555370627,05-07-2025,UK,Manchester,69,Female,PayPal,Pending,125.83
+C0622,Lakshmi Singh,lakshmi.singh4@company.in,6693196303,03-09-2025,India,Hyderabad,25,Female,PayPal,Completed,665.9
+C0623,Sneha Naidu,sneha.naidu68@company.in,6259364502,06-12-2023,USA,Austin,20,Male,Debit Card,Pending,1276.06
+C0624,Rahul Rao,rahul.rao32@gmail.com,9711506291,23-06-2022,USA,Seattle,41,Male,PayPal,Completed,1330.46
+C0625,Michael Rao,michael.rao42@gmail.com,Unknown,18-09-2024,USA,Austin,47,Male,UPI,Completed,
+C0626,Kavya Sharma,kavya.sharma65@gmail.com,Unknown,21-08-2025,USA,Seattle,43,Female,Unkown,Pending,1169.77
+C0627,Emily Naidu,emily.naidu5@company.in,6389173690,08-10-2025,UK,London,61,Unkown,PayPal,Pending,583.17
+C0628,Aarav Brown,Unkown,Unknown,11-04-2025,UK,London,25,Male,PayPal,Completed,1131.44
+C0629,Suresh Brown,suresh.brown4@outlook.com,6223461446,05-02-2023,Canada,Vancouver,31,Other,Debit Card,Completed,818.98
+C0630,Suresh Rao,Unkown,9036883004,12-02-2024,Canada,Toronto,34,Female,PayPal,Completed,810.28
+C0631,Divya Singh,divya.singh7@gmail.com,8718301817,12-07-2022,India,Kurnool,61,Male,PayPal,Refunded,127.52
+C0632,Vikram Reddy,vikram.reddy36@company.in,6061735631,05-05-2024,Canada,Toronto,68,Male,Cash on Delivery,Cancelled,537.14
+C0633,Karthik Rao,karthik.rao90@gmail.com,7163361317,27-01-2022,India,Chennai,31,Other,UPI,Completed,751.89
+C0634,Divya Smith,divya.smith36@yahoo.com,8192581476,22-10-2023,India,Hyderabad,27,Female,PayPal,Completed,1166.91
+C0635,Divya Sharma,divya.sharma80@gmail.com,8089921773,19-09-2023,Unknown,Vancouver,45,Male,Unkown,Completed,546.73
+C0636,Ananya Smith,ananya.smith13@company.in,7654018144,16-04-2023,USA,Seattle,68,Female,Debit Card,Pending,1217.08
+C0637,Rahul Kumar,rahul.kumar79@company.in,9054245190,30-01-2023,Canada,Vancouver,37,Female,Credit Card,Completed,933.39
+C0638,Lakshmi Gupta,lakshmi.gupta30@yahoo.com,7909342424,10-07-2022,USA,New York,23,Male,Cash on Delivery,Cancelled,1252.97
+C0639,Sarah Singh,sarah.singh47@outlook.com,Unknown,28-12-2022,India,Mumbai,33,Male,Cash on Delivery,Refunded,578.66
+C0640,Priya Singh,priya.singh1@gmail.com,Unknown,16-07-2023,Canada,Toronto,69,Other,Credit Card,Completed,208.88
+C0641,Karthik Brown,karthik.brown44@gmail.com,9016744923,30-10-2023,Unknown,Manchester,40,Male,Cash on Delivery,Cancelled,5.08
+C0642,Priya Naidu,priya.naidu10@gmail.com,8038576264,10-11-2023,UK,London,52,Male,Debit Card,Pending,1203.3
+C0643,Emily Gupta,Unkown,9703656203,28-10-2024,Canada,Vancouver,36,Other,UPI,Cancelled,1290.18
+C0644,Imran Smith,imran.smith92@gmail.com,9262636785,03-07-2024,Canada,Toronto,32,Other,UPI,Cancelled,455.67
+C0645,Aarav Brown,aarav.brown60@gmail.com,Unknown,16-02-2022,USA,Austin,43,Other,Cash on Delivery,Completed,1437.65
+C0646,Rohan Smith,rohan.smith44@yahoo.com,6470911034,22-04-2024,Canada,Vancouver,61,Male,Credit Card,Refunded,647.61
+C0647,Fatima Khan,fatima.khan66@gmail.com,7905256599,10-04-2025,Canada,Unkown,35,Male,Debit Card,Pending,620.36
+C0648,Rahul Singh,rahul.singh28@gmail.com,Unknown,22-09-2023,India,Bengaluru,43,Male,UPI,Cancelled,679.35
+C0649,Lakshmi Iyer,lakshmi.iyer39@gmail.com,8346581539,06-06-2022,UK,Manchester,31,Male,Credit Card,Cancelled,760.7
+C0650,Rohan Kumar,rohan.kumar45@company.in,6038146342,18-07-2022,India,Chennai,52,Female,Debit Card,Cancelled,883.46
+C0651,Rahul Singh,rahul.singh32@gmail.com,7044077811,05-02-2023,Canada,Toronto,59,Female,Cash on Delivery,Cancelled,1274.22
+C0652,Sneha Naidu,sneha.naidu20@gmail.com,Unknown,16-02-2022,Canada,Vancouver,25,Male,Cash on Delivery,Refunded,631.93
+C0653,Vikram Sharma,vikram.sharma64@company.in,Unknown,23-01-2022,USA,Seattle,25,Female,Cash on Delivery,Pending,521.17
+C0654,Unkown,aarav.johnson3@gmail.com,Unknown,08-01-2023,USA,Seattle,43,Female,PayPal,Cancelled,396.91
+C0655,Lakshmi Johnson,lakshmi.johnson50@gmail.com,Unknown,10-10-2022,USA,New York,26,Female,Debit Card,Pending,1265.8
+C0656,Rahul Gupta,rahul.gupta73@gmail.com,9730953267,20-09-2022,India,Bengaluru,32,Female,Cash on Delivery,Refunded,843.39
+C0657,Emily Sharma,emily.sharma20@yahoo.com,Unknown,10-11-2024,India,Mumbai,20,Male,UPI,Cancelled,773.79
+C0658,Ananya Rao,ananya.rao36@gmail.com,8119976453,20-08-2023,Canada,Vancouver,43,Male,UPI,Cancelled,1456.25
+C0659,Ananya Sharma,ananya.sharma5@gmail.com,8834927668,28-08-2025,Unknown,Chennai,38,Male,PayPal,Completed,960.76
+C0660,Suresh Johnson,suresh.johnson42@outlook.com,9462720536,14-04-2025,Canada,Toronto,19,Female,Credit Card,Pending,235.59
+C0661,Karthik Rao,karthik.rao59@outlook.com,8678446078,22-11-2022,USA,New York,53,Female,UPI,Completed,582.48
+C0662,Arjun Gupta,arjun.gupta67@outlook.com,6705549434,,USA,Seattle,48,Female,PayPal,Cancelled,654.39
+C0663,Sneha Kumar,sneha.kumar60@gmail.com,7494314872,10-09-2022,USA,Austin,60,Other,Cash on Delivery,Refunded,1424.87
+C0664,Vikram Patel,vikram.patel48@outlook.com,Unknown,07-04-2025,Unknown,Seattle,67,Other,PayPal,Pending,1179.71
+C0665,Arjun Johnson,arjun.johnson38@gmail.com,Unknown,28-11-2023,Canada,Vancouver,43,Female,UPI,Completed,1492.07
+C0666,Sneha Iyer,sneha.iyer75@yahoo.com,7673558960,13-04-2025,USA,Unkown,67,Female,Debit Card,Cancelled,639.21
+C0667,Meera Gupta,meera.gupta87@yahoo.com,Unknown,08-03-2025,USA,Austin,63,Female,PayPal,Pending,624
+C0668,John Iyer,john.iyer17@yahoo.com,Unknown,04-06-2022,Canada,Toronto,68,Female,PayPal,Cancelled,399.46
+C0669,Rohan Reddy,rohan.reddy25@company.in,7768418471,29-04-2022,USA,Austin,61,Male,Credit Card,Cancelled,
+C0670,Suresh Singh,Unkown,9295076716,16-09-2024,Canada,Vancouver,44,Female,Credit Card,Refunded,656.06
+C0671,Arjun Gupta,arjun.gupta14@company.in,6970342519,18-04-2023,Canada,Vancouver,43,Male,Cash on Delivery,Cancelled,915.79
+C0672,Suresh Johnson,suresh.johnson52@gmail.com,6293358384,21-02-2022,USA,Austin,25,Female,Credit Card,Cancelled,827.85
+C0673,Rahul Singh,rahul.singh70@yahoo.com,6359717717,17-11-2024,India,Unkown,54,Other,UPI,Refunded,1427.51
+C0674,Michael Kumar,michael.kumar50@company.in,6643459731,06-04-2024,USA,New York,66,Male,Credit Card,Pending,688.97
+C0675,Aarav Singh,aarav.singh90@gmail.com,Unknown,13-01-2025,UK,London,31,Male,Credit Card,Completed,143.63
+C0676,Ananya Iyer,ananya.iyer35@gmail.com,6669926138,13-06-2023,USA,Austin,43,Female,Credit Card,Refunded,1435.17
+C0677,Imran Reddy,imran.reddy98@yahoo.com,7432333023,07-05-2025,India,Kurnool,25,Male,UPI,Completed,632.07
+C0678,Vikram Patel,vikram.patel42@yahoo.com,9448854875,,UK,Manchester,23,Male,UPI,Cancelled,367.45
+C0679,Lakshmi Rao,lakshmi.rao87@yahoo.com,6195866399,24-09-2022,Canada,Vancouver,64,Female,Debit Card,Pending,257.33
+C0680,Aarav Patel,Unkown,6220175454,02-01-2023,USA,New York,23,Female,Cash on Delivery,Completed,792.97
+C0681,Arjun Naidu,arjun.naidu8@gmail.com,8872383680,16-01-2025,India,Hyderabad,67,Female,UPI,Pending,1398.35
+C0682,Lakshmi Khan,lakshmi.khan80@yahoo.com,7297049379,02-09-2022,Canada,Toronto,54,Female,UPI,Cancelled,1273.34
+C0683,Imran Singh,imran.singh39@company.in,7124977367,23-04-2024,India,Bengaluru,70,Female,Debit Card,Pending,241.88
+C0684,Divya Rao,divya.rao98@yahoo.com,6009409165,05-08-2025,India,Hyderabad,52,Female,Debit Card,Pending,448.76
+C0685,Rahul Johnson,rahul.johnson87@outlook.com,6475690018,21-08-2022,UK,London,33,Male,UPI,Cancelled,1129.45
+C0686,Fatima Brown,fatima.brown77@gmail.com,6032990900,01-12-2022,India,Bengaluru,28,Female,Credit Card,Cancelled,1113.92
+C0687,Fatima Gupta,fatima.gupta95@gmail.com,Unknown,03-07-2023,USA,Seattle,41,Female,Cash on Delivery,Pending,1419.4
+C0688,Karthik Sharma,karthik.sharma40@gmail.com,7720335051,01-09-2024,USA,New York,27,Female,Debit Card,Completed,1400.44
+C0689,Vikram Smith,vikram.smith40@gmail.com,6781913505,02-02-2024,UK,Manchester,57,Female,Cash on Delivery,Completed,1284.51
+C0690,Vikram Singh,vikram.singh56@gmail.com,9352007615,02-06-2022,Canada,Toronto,26,Female,UPI,Refunded,1008.67
+C0691,Michael Sharma,michael.sharma37@gmail.com,6893046163,13-05-2025,India,Kurnool,43,Male,Cash on Delivery,Cancelled,227.46
+C0692,Ananya Iyer,ananya.iyer2@gmail.com,8723735640,04-01-2022,Canada,Toronto,63,Female,Cash on Delivery,Completed,1087.38
+C0693,Imran Reddy,imran.reddy34@company.in,8711645605,20-11-2024,UK,Unkown,45,Female,Debit Card,Pending,1086.21
+C0694,Karthik Patel,karthik.patel31@gmail.com,6548720124,15-02-2025,Canada,Vancouver,43,Male,UPI,Cancelled,724.14
+C0695,Suresh Smith,suresh.smith18@outlook.com,6009143529,19-02-2023,Canada,Toronto,43,Female,PayPal,Completed,1198.51
+C0696,Suresh Naidu,suresh.naidu58@outlook.com,9771251589,27-05-2023,USA,Austin,43,Male,Cash on Delivery,Completed,60.85
+C0697,Sarah Sharma,sarah.sharma11@outlook.com,Unknown,03-02-2025,Canada,Toronto,43,Male,Debit Card,Pending,1216.42
+C0698,Sneha Singh,sneha.singh86@company.in,6199256924,19-07-2024,India,Mumbai,30,Male,Unkown,Completed,1396.37
+C0699,Divya Naidu,divya.naidu76@gmail.com,9714878310,28-04-2024,UK,London,43,Male,PayPal,Cancelled,
+C0700,Arjun Singh,Unkown,6060326753,13-06-2025,Canada,Toronto,32,Male,Unkown,Unkown,436.95
+C0701,Imran Singh,imran.singh72@gmail.com,6361007701,28-11-2024,Canada,Vancouver,58,Male,UPI,Cancelled,888.46
+C0702,Priya Singh,priya.singh35@outlook.com,Unknown,27-04-2025,India,Hyderabad,69,Female,Debit Card,Pending,637.2
+C0703,Sarah Khan,sarah.khan59@yahoo.com,7858653927,13-11-2022,Canada,Toronto,37,Male,Credit Card,Completed,413.2
+C0704,Divya Davis,divya.davis16@gmail.com,9463989701,18-04-2025,UK,Manchester,43,Female,PayPal,Pending,838.15
+C0705,Priya Kumar,Unkown,9197384498,28-09-2025,India,Mumbai,25,Female,Credit Card,Pending,1157.22
+C0706,Vikram Patel,vikram.patel34@outlook.com,8561922188,12-08-2024,USA,New York,49,Male,Debit Card,Refunded,1423.29
+C0707,Divya Iyer,divya.iyer53@gmail.com,7252826712,29-10-2022,USA,Austin,18,Female,Cash on Delivery,Cancelled,341.87
+C0708,Unkown,emily.iyer40@yahoo.com,6555906278,24-05-2025,India,Kurnool,45,Male,Unkown,Completed,1062.76
+C0709,John Singh,john.singh23@company.in,7957955192,08-03-2025,India,Mumbai,60,Female,Credit Card,Completed,1427.32
+C0710,Sneha Naidu,sneha.naidu27@yahoo.com,7482873210,11-01-2024,UK,Manchester,43,Male,Debit Card,Pending,
+C0711,Unkown,Unkown,Unknown,03-07-2025,Unknown,Austin,38,Female,PayPal,Pending,1098.4
+C0712,Arjun Patel,arjun.patel74@gmail.com,7166968740,21-02-2025,Canada,Unkown,67,Male,Unkown,Cancelled,50.05
+C0713,Sneha Khan,sneha.khan75@gmail.com,Unknown,15-04-2025,Canada,Vancouver,28,Female,Debit Card,Pending,198.73
+C0714,Priya Johnson,Unkown,Unknown,16-01-2024,UK,Manchester,43,Female,Debit Card,Refunded,74.86
+C0715,Meera Davis,meera.davis48@outlook.com,8967577991,17-01-2024,USA,New York,67,Female,Cash on Delivery,Completed,896.4
+C0716,Kavya Rao,kavya.rao45@yahoo.com,7476128989,16-02-2024,Canada,Toronto,67,Male,PayPal,Refunded,1065.43
+C0717,Rohan Johnson,rohan.johnson28@company.in,9818439763,29-11-2024,Canada,Toronto,65,Male,PayPal,Refunded,1016.56
+C0718,Meera Singh,meera.singh52@company.in,7475916043,05-10-2022,India,Kurnool,28,Female,Cash on Delivery,Completed,581.47
+C0719,Emily Reddy,emily.reddy28@outlook.com,9761350078,08-03-2023,Canada,Vancouver,49,Female,Debit Card,Pending,89.9
+C0720,Vikram Davis,vikram.davis21@gmail.com,6322347714,09-11-2023,Canada,Unkown,62,Other,Cash on Delivery,Cancelled,1214.25
+C0721,Kavya Gupta,kavya.gupta15@yahoo.com,6650761222,,UK,Manchester,54,Male,UPI,Cancelled,897.61
+C0722,Rohan Iyer,rohan.iyer63@company.in,7990460082,20-03-2023,India,Chennai,61,Male,Cash on Delivery,Pending,
+C0723,Unkown,lakshmi.smith44@gmail.com,9216218333,04-03-2023,Canada,Toronto,21,Other,Cash on Delivery,Pending,383.01
+C0724,Imran Johnson,imran.johnson7@outlook.com,7063228012,13-01-2025,UK,London,53,Male,UPI,Refunded,
+C0725,Imran Naidu,imran.naidu47@gmail.com,9094657770,29-05-2023,UK,Manchester,53,Male,Debit Card,Pending,706.56
+C0726,Aarav Kumar,aarav.kumar83@company.in,9647951279,25-03-2024,USA,Austin,20,Female,UPI,Unkown,816.41
+C0727,Aarav Johnson,aarav.johnson89@company.in,6740433689,30-07-2022,India,Chennai,43,Other,PayPal,Cancelled,553.69
+C0728,Aarav Johnson,aarav.johnson7@yahoo.com,7010297599,01-12-2022,USA,New York,36,Female,Debit Card,Cancelled,1030.69
+C0729,Suresh Singh,suresh.singh57@outlook.com,7766997681,21-01-2024,India,Bengaluru,68,Female,Cash on Delivery,Cancelled,143.91
+C0730,Sarah Sharma,sarah.sharma65@gmail.com,9324535279,30-12-2023,India,Hyderabad,65,Male,Credit Card,Cancelled,669.09
+C0731,Michael Iyer,michael.iyer7@gmail.com,9425972055,25-12-2024,India,Mumbai,30,Male,Cash on Delivery,Pending,17.43
+C0732,Sneha Khan,sneha.khan11@outlook.com,7676988979,20-11-2023,UK,Unkown,47,Female,UPI,Cancelled,805.33
+C0733,Lakshmi Sharma,lakshmi.sharma90@gmail.com,6124844793,05-04-2025,UK,Manchester,22,Female,Credit Card,Cancelled,
+C0734,Aarav Davis,aarav.davis49@gmail.com,7718624475,06-09-2023,UK,London,26,Other,Debit Card,Pending,365.7
+C0735,John Kumar,john.kumar46@gmail.com,Unknown,05-12-2022,Unknown,Vancouver,25,Male,Cash on Delivery,Pending,944.58
+C0736,Imran Reddy,imran.reddy3@yahoo.com,7685272876,24-08-2023,USA,New York,42,Other,Credit Card,Refunded,194.53
+C0737,Kavya Khan,kavya.khan23@yahoo.com,Unknown,16-07-2024,USA,Austin,26,Male,Debit Card,Refunded,752.06
+C0738,Divya Gupta,divya.gupta38@gmail.com,8673865690,05-01-2025,Canada,Vancouver,48,Female,Unkown,Pending,1281.44
+C0739,Ananya Patel,ananya.patel21@gmail.com,6339801387,26-07-2025,UK,Manchester,49,Unkown,Cash on Delivery,Pending,834.96
+C0740,Karthik Kumar,karthik.kumar17@gmail.com,8794575959,26-05-2022,Canada,Vancouver,50,Female,UPI,Pending,1496.99
+C0741,Ananya Johnson,ananya.johnson19@gmail.com,8119214574,14-08-2025,UK,London,60,Female,Credit Card,Completed,1464.89
+C0742,Divya Naidu,divya.naidu37@gmail.com,6218052579,12-06-2024,India,Hyderabad,29,Male,Credit Card,Refunded,354.16
+C0743,Sneha Patel,sneha.patel65@outlook.com,9127342112,,UK,London,30,Other,Debit Card,Pending,651.45
+C0744,Meera Brown,meera.brown15@company.in,9831723667,15-03-2022,Unknown,London,54,Female,Unkown,Pending,772.14
+C0745,Arjun Gupta,arjun.gupta64@gmail.com,7572316316,11-03-2024,UK,Manchester,51,Other,Cash on Delivery,Completed,520.69
+C0746,Suresh Davis,suresh.davis45@company.in,Unknown,23-03-2024,Canada,Toronto,43,Male,UPI,Completed,598.83
+C0747,John Rao,john.rao32@gmail.com,Unknown,06-10-2024,USA,Seattle,43,Female,Credit Card,Cancelled,283.82
+C0748,Unkown,emily.sharma53@outlook.com,8163712063,12-05-2024,India,Bengaluru,51,Male,Debit Card,Refunded,1348.39
+C0749,Karthik Johnson,karthik.johnson54@company.in,7605554654,05-03-2022,Canada,Toronto,24,Female,PayPal,Pending,1290.32
+C0750,Unkown,lakshmi.brown30@gmail.com,7869742173,27-04-2024,Canada,Toronto,23,Other,Credit Card,Cancelled,
+C0751,Arjun Davis,arjun.davis68@outlook.com,9959514295,28-08-2024,India,Hyderabad,30,Male,PayPal,Cancelled,1220.36
+C0752,Sneha Iyer,sneha.iyer27@outlook.com,6638326489,06-08-2023,India,Delhi,55,Male,Credit Card,Refunded,1047.19
+C0753,Arjun Davis,arjun.davis90@outlook.com,7372875679,18-05-2023,UK,Manchester,63,Male,Debit Card,Cancelled,473.5
+C0754,Imran Sharma,imran.sharma63@company.in,6198309754,08-09-2023,UK,London,44,Unkown,Debit Card,Pending,1399.87
+C0755,Rohan Patel,rohan.patel21@gmail.com,6966602865,05-03-2022,USA,Austin,43,Male,Cash on Delivery,Refunded,828.15
+C0756,Michael Davis,michael.davis32@gmail.com,7207098348,14-11-2024,India,Chennai,21,Male,PayPal,Refunded,1128.96
+C0757,Suresh Kumar,suresh.kumar65@gmail.com,Unknown,03-09-2024,UK,London,55,Male,UPI,Pending,868.21
+C0758,Rahul Iyer,rahul.iyer35@gmail.com,6053669332,14-09-2022,UK,London,48,Other,UPI,Pending,517.18
+C0759,Michael Patel,michael.patel30@gmail.com,Unknown,19-04-2022,India,Kurnool,43,Male,Cash on Delivery,Cancelled,15.32
+C0760,Kavya Brown,kavya.brown74@gmail.com,7157837926,29-08-2023,India,Chennai,59,Male,Debit Card,Pending,
+C0761,Imran Smith,Unkown,8102506668,10-11-2024,USA,Seattle,28,Male,PayPal,Cancelled,564.33
+C0762,Divya Rao,divya.rao19@gmail.com,9399495940,23-12-2023,UK,London,27,Other,UPI,Cancelled,851.14
+C0763,Imran Patel,imran.patel88@yahoo.com,7487493916,02-08-2024,Unknown,Vancouver,42,Male,Cash on Delivery,Completed,311.31
+C0764,Emily Gupta,emily.gupta66@outlook.com,6937164581,07-07-2022,USA,Seattle,58,Male,Debit Card,Refunded,729.09
+C0765,Rohan Naidu,rohan.naidu50@gmail.com,7743450968,25-06-2024,India,Delhi,23,Other,PayPal,Cancelled,815.77
+C0766,Divya Kumar,divya.kumar23@gmail.com,6354694660,07-03-2024,UK,Manchester,24,Other,PayPal,Cancelled,53.13
+C0767,Michael Davis,Unkown,Unknown,24-05-2022,Canada,Vancouver,63,Male,Unkown,Pending,959.52
+C0768,Kavya Davis,kavya.davis48@company.in,Unknown,05-07-2022,Canada,Toronto,65,Female,Credit Card,Refunded,898.62
+C0769,Kavya Sharma,kavya.sharma11@yahoo.com,7094003717,15-10-2022,Canada,Toronto,32,Female,Debit Card,Cancelled,115.97
+C0770,Suresh Gupta,suresh.gupta41@gmail.com,6239933025,09-02-2025,UK,London,28,Female,Credit Card,Pending,650.27
+C0771,Suresh Smith,suresh.smith71@gmail.com,6816418044,02-07-2022,India,Mumbai,43,Female,Unkown,Refunded,
+C0772,Rohan Davis,rohan.davis89@gmail.com,8907429414,15-02-2025,India,Chennai,43,Male,UPI,Cancelled,334.56
+C0773,Unkown,sarah.brown13@gmail.com,9859026297,10-12-2024,UK,London,36,Other,PayPal,Refunded,1470.71
+C0774,Sneha Iyer,sneha.iyer64@gmail.com,7125242352,09-05-2022,UK,Manchester,36,Unkown,Credit Card,Cancelled,1345.78
+C0775,Rahul Patel,Unkown,Unknown,01-07-2025,India,Mumbai,57,Female,UPI,Refunded,348.75
+C0776,Vikram Reddy,vikram.reddy30@gmail.com,6096242657,27-10-2025,India,Chennai,57,Male,Debit Card,Cancelled,1352.3
+C0777,Fatima Davis,fatima.davis38@yahoo.com,7805034553,28-08-2022,USA,Austin,38,Male,Cash on Delivery,Pending,106.07
+C0778,John Khan,john.khan8@gmail.com,6526210741,17-03-2023,India,Delhi,22,Female,Credit Card,Completed,1076.59
+C0779,Sarah Brown,sarah.brown88@outlook.com,9010034344,21-07-2023,Canada,Toronto,70,Male,Cash on Delivery,Refunded,1179.31
+C0780,Michael Naidu,michael.naidu59@gmail.com,7312223954,02-10-2024,Canada,Vancouver,32,Male,UPI,Pending,1355.02
+C0781,Imran Sharma,imran.sharma53@outlook.com,Unknown,09-07-2024,USA,Austin,18,Male,Cash on Delivery,Refunded,569.55
+C0782,Priya Iyer,priya.iyer35@company.in,8981184651,,Canada,Vancouver,32,Female,Credit Card,Pending,382.3
+C0783,Rohan Gupta,rohan.gupta74@outlook.com,9365972767,21-03-2025,UK,Manchester,57,Female,PayPal,Pending,1133.28
+C0784,Emily Smith,emily.smith63@yahoo.com,6011139154,23-10-2025,UK,London,56,Female,Debit Card,Refunded,1218.06
+C0785,Arjun Davis,arjun.davis81@company.in,9736720961,12-09-2024,Canada,Toronto,23,Male,PayPal,Refunded,340.14
+C0786,Kavya Kumar,kavya.kumar99@gmail.com,7260968568,19-11-2023,Canada,Toronto,25,Other,Credit Card,Cancelled,465.84
+C0787,Lakshmi Singh,lakshmi.singh22@gmail.com,8587669494,06-10-2024,UK,Manchester,43,Female,UPI,Unkown,988.49
+C0788,Arjun Smith,arjun.smith83@company.in,9805383385,17-12-2023,Canada,Vancouver,43,Male,Cash on Delivery,Pending,423.09
+C0789,Kavya Sharma,kavya.sharma91@outlook.com,Unknown,17-10-2022,Canada,Toronto,38,Male,Debit Card,Refunded,614.38
+C0790,Rahul Sharma,rahul.sharma56@gmail.com,9797383306,06-05-2025,Unknown,Seattle,52,Male,UPI,Cancelled,495.21
+C0791,Imran Sharma,imran.sharma56@gmail.com,7613912377,14-01-2025,Canada,Unkown,23,Male,Debit Card,Refunded,1021.9
+C0792,Sneha Sharma,sneha.sharma64@gmail.com,Unknown,06-01-2025,Canada,Vancouver,51,Male,UPI,Pending,1022.69
+C0793,Rahul Iyer,rahul.iyer34@outlook.com,7207560526,18-03-2025,Canada,Vancouver,53,Female,UPI,Pending,1352
+C0794,Suresh Kumar,suresh.kumar4@gmail.com,9320129531,25-12-2023,UK,London,55,Male,UPI,Pending,416.39
+C0795,Priya Gupta,priya.gupta39@company.in,7982455381,23-11-2024,USA,New York,46,Other,PayPal,Pending,541.58
+C0796,John Smith,john.smith76@gmail.com,8487615048,16-05-2024,India,Unkown,50,Female,UPI,Completed,1093.26
+C0797,Karthik Kumar,Unkown,9459254123,07-11-2023,UK,London,46,Other,Cash on Delivery,Refunded,453.54
+C0798,Arjun Johnson,arjun.johnson17@yahoo.com,7502767490,11-09-2025,India,Chennai,39,Female,Debit Card,Pending,1268.95
+C0799,Priya Kumar,priya.kumar72@yahoo.com,6683357668,20-11-2023,UK,Manchester,40,Male,UPI,Completed,1332.16
+C0800,Michael Khan,Unkown,8010558391,28-10-2025,USA,New York,67,Male,Debit Card,Unkown,1448.46
+C0801,Divya Rao,divya.rao72@company.in,9634208348,10-07-2024,Canada,Toronto,51,Male,Debit Card,Refunded,782
+C0802,Lakshmi Iyer,lakshmi.iyer67@gmail.com,9144693995,12-09-2023,USA,Austin,43,Male,PayPal,Cancelled,412.58
+C0803,Suresh Iyer,suresh.iyer85@company.in,Unknown,26-10-2022,Canada,Toronto,26,Male,Credit Card,Refunded,368.27
+C0804,Rohan Smith,rohan.smith59@company.in,9644943632,24-12-2023,Canada,Vancouver,43,Male,Credit Card,Refunded,509.3
+C0805,Vikram Sharma,vikram.sharma81@company.in,7358508143,08-09-2025,USA,Austin,51,Unkown,PayPal,Pending,37.44
+C0806,Rahul Johnson,rahul.johnson47@yahoo.com,9599052702,17-12-2023,Canada,Toronto,23,Male,Credit Card,Pending,691.4
+C0807,Rahul Sharma,rahul.sharma52@company.in,Unknown,16-02-2023,USA,New York,36,Other,PayPal,Cancelled,1235.54
+C0808,Vikram Iyer,vikram.iyer87@yahoo.com,8687069057,22-10-2022,Canada,Toronto,48,Male,Credit Card,Unkown,684.77
+C0809,Kavya Singh,kavya.singh54@outlook.com,7024264685,06-04-2025,UK,Manchester,43,Female,Cash on Delivery,Pending,448.72
+C0810,Kavya Johnson,Unkown,Unknown,25-01-2024,USA,New York,48,Male,PayPal,Completed,1051.35
+C0811,Imran Smith,Unkown,6055916983,13-07-2022,UK,Manchester,43,Female,Cash on Delivery,Refunded,742.9
+C0812,Vikram Johnson,Unkown,Unknown,14-01-2022,UK,London,43,Male,Credit Card,Refunded,866.94
+C0813,Unkown,rahul.smith26@yahoo.com,9701497268,16-12-2024,Canada,Toronto,43,Male,PayPal,Unkown,41.06
+C0814,Sneha Patel,sneha.patel94@company.in,6075167486,02-08-2023,UK,Manchester,60,Female,Cash on Delivery,Pending,1097.26
+C0815,Rohan Smith,Unkown,7064691267,12-09-2022,UK,London,55,Male,Cash on Delivery,Pending,270.28
+C0816,Fatima Kumar,fatima.kumar43@yahoo.com,6128269934,10-05-2025,USA,New York,28,Other,Debit Card,Pending,1014.93
+C0817,Kavya Davis,kavya.davis62@gmail.com,7453538115,11-06-2022,India,Bengaluru,67,Male,PayPal,Completed,
+C0818,Sneha Iyer,sneha.iyer67@company.in,6010427974,12-07-2023,Canada,Vancouver,19,Male,Cash on Delivery,Completed,345.6
+C0819,Unkown,michael.patel27@company.in,7475601642,08-06-2022,UK,Manchester,50,Other,UPI,Unkown,155.61
+C0820,Rahul Brown,rahul.brown30@outlook.com,6060398107,02-07-2025,Unknown,Toronto,21,Male,PayPal,Cancelled,1389.25
+C0821,Sarah Kumar,sarah.kumar68@outlook.com,8915658179,08-02-2023,Canada,Vancouver,30,Male,Cash on Delivery,Completed,654.95
+C0822,Arjun Rao,arjun.rao37@gmail.com,6426520120,12-01-2024,India,Bengaluru,31,Female,Debit Card,Cancelled,1041.58
+C0823,Sneha Patel,sneha.patel78@gmail.com,7180113085,,Canada,Vancouver,37,Female,PayPal,Pending,867.19
+C0824,Divya Brown,divya.brown41@yahoo.com,Unknown,22-11-2022,USA,New York,66,Male,Unkown,Completed,366.4
+C0825,Rahul Sharma,rahul.sharma60@yahoo.com,7927639852,16-08-2023,Canada,Toronto,43,Male,Cash on Delivery,Refunded,1328.62
+C0826,Imran Brown,imran.brown75@yahoo.com,8347050707,28-10-2025,USA,New York,23,Female,Cash on Delivery,Refunded,870
+C0827,Sarah Brown,sarah.brown36@yahoo.com,8915419635,21-11-2023,UK,Manchester,41,Female,Cash on Delivery,Unkown,155.73
+C0828,Fatima Patel,fatima.patel31@outlook.com,Unknown,25-10-2024,Canada,Toronto,62,Male,UPI,Refunded,1181.33
+C0829,Karthik Reddy,karthik.reddy31@gmail.com,8940038180,28-11-2022,India,Unkown,52,Male,Cash on Delivery,Completed,1461.11
+C0830,Emily Khan,emily.khan98@gmail.com,8743344210,23-01-2022,Canada,Toronto,56,Male,Credit Card,Refunded,318.39
+C0831,Vikram Smith,vikram.smith77@outlook.com,9877677513,07-09-2025,USA,Seattle,62,Female,Debit Card,Completed,132.2
+C0832,John Brown,john.brown93@yahoo.com,6315758593,04-03-2022,India,Delhi,52,Male,Debit Card,Pending,750.45
+C0833,Rohan Davis,Unkown,Unknown,08-02-2023,Canada,Vancouver,43,Male,PayPal,Pending,690.66
+C0834,Ananya Singh,ananya.singh47@gmail.com,Unknown,27-07-2023,Canada,Unkown,18,Male,Credit Card,Refunded,146.69
+C0835,Unkown,aarav.khan49@gmail.com,6438177998,15-09-2024,USA,New York,54,Male,PayPal,Cancelled,987.62
+C0836,Kavya Johnson,kavya.johnson66@gmail.com,9432567405,30-08-2024,Canada,Vancouver,43,Unkown,Credit Card,Pending,90.02
+C0837,Michael Patel,michael.patel17@yahoo.com,Unknown,02-12-2022,India,Kurnool,61,Other,Cash on Delivery,Cancelled,971.86
+C0838,Vikram Johnson,vikram.johnson35@company.in,8935803528,06-03-2022,UK,London,60,Female,PayPal,Completed,278.54
+C0839,Ananya Singh,ananya.singh62@outlook.com,6060698826,26-06-2023,Canada,Vancouver,35,Male,PayPal,Cancelled,1192.51
+C0840,Aarav Davis,aarav.davis21@outlook.com,7247079262,20-05-2025,UK,London,40,Male,UPI,Completed,655.42
+C0841,John Singh,john.singh72@company.in,9454959578,25-05-2024,UK,London,43,Female,Credit Card,Cancelled,140.75
+C0842,Fatima Iyer,fatima.iyer35@gmail.com,7863811050,24-07-2023,India,Chennai,35,Female,Credit Card,Cancelled,1093.96
+C0843,Sarah Patel,sarah.patel97@yahoo.com,7151002607,30-09-2022,UK,Manchester,47,Female,UPI,Cancelled,1074.6
+C0844,Aarav Kumar,aarav.kumar9@company.in,7773129734,09-03-2025,Unknown,New York,19,Unkown,Credit Card,Refunded,1482.27
+C0845,Fatima Reddy,fatima.reddy45@yahoo.com,Unknown,13-03-2025,USA,New York,59,Female,Debit Card,Completed,623.22
+C0846,Priya Khan,priya.khan67@gmail.com,6497236694,11-01-2022,Canada,Vancouver,61,Female,Debit Card,Cancelled,883.61
+C0847,Arjun Iyer,arjun.iyer50@outlook.com,9740788698,17-02-2023,USA,New York,36,Female,PayPal,Completed,1288.18
+C0848,Sarah Kumar,sarah.kumar7@gmail.com,7437804704,13-08-2022,USA,Austin,35,Female,PayPal,Completed,649.58
+C0849,Ananya Khan,ananya.khan16@yahoo.com,8789591532,29-05-2022,USA,Austin,48,Male,PayPal,Completed,235.68
+C0850,Karthik Singh,karthik.singh44@yahoo.com,9707060074,02-01-2025,India,Hyderabad,50,Female,Debit Card,Completed,404.12
+C0851,Suresh Patel,suresh.patel11@outlook.com,9618248741,09-09-2023,Canada,Vancouver,63,Male,Debit Card,Cancelled,1249.51
+C0852,Michael Davis,Unkown,8845677154,10-03-2023,USA,New York,62,Male,PayPal,Cancelled,1292.45
+C0853,Imran Brown,imran.brown93@gmail.com,8296455217,18-03-2024,Canada,Vancouver,34,Male,Cash on Delivery,Refunded,75.07
+C0854,Emily Khan,emily.khan88@outlook.com,6321430318,14-10-2022,USA,Seattle,42,Male,Debit Card,Completed,461.41
+C0855,Kavya Naidu,kavya.naidu10@outlook.com,6798387135,03-06-2023,Canada,Toronto,56,Male,Debit Card,Cancelled,522.93
+C0856,Lakshmi Naidu,lakshmi.naidu82@gmail.com,9851797367,16-03-2024,UK,Manchester,28,Male,Credit Card,Refunded,1203.55
+C0857,Sneha Naidu,sneha.naidu74@gmail.com,7201656633,23-02-2024,India,Bengaluru,40,Male,Cash on Delivery,Cancelled,261.43
+C0858,John Davis,john.davis21@gmail.com,Unknown,,UK,London,36,Other,UPI,Completed,1130.77
+C0859,Fatima Khan,fatima.khan46@outlook.com,8814712666,18-09-2022,USA,Austin,43,Female,Cash on Delivery,Cancelled,668.5
+C0860,Lakshmi Naidu,lakshmi.naidu37@gmail.com,7719127593,03-03-2025,Canada,Unkown,31,Female,PayPal,Cancelled,109.46
+C0861,Arjun Davis,arjun.davis33@yahoo.com,8220072276,25-11-2022,UK,London,36,Male,Debit Card,Completed,
+C0862,Lakshmi Patel,lakshmi.patel83@gmail.com,8703446332,28-01-2024,USA,Austin,39,Male,PayPal,Completed,829.54
+C0863,Fatima Iyer,fatima.iyer75@gmail.com,9522964842,04-08-2025,Canada,Vancouver,43,Female,Debit Card,Completed,1382.71
+C0864,Lakshmi Singh,lakshmi.singh80@gmail.com,7524392295,23-09-2024,USA,New York,22,Male,Debit Card,Completed,237.11
+C0865,Fatima Iyer,fatima.iyer57@company.in,6943868250,14-03-2024,Canada,Toronto,37,Male,UPI,Refunded,569.04
+C0866,Meera Johnson,meera.johnson8@outlook.com,6051496180,24-10-2025,Canada,Unkown,30,Male,Cash on Delivery,Refunded,365.24
+C0867,John Iyer,john.iyer30@outlook.com,Unknown,12-04-2023,UK,Manchester,53,Female,PayPal,Completed,
+C0868,Kavya Naidu,kavya.naidu32@gmail.com,7702318967,17-05-2022,USA,New York,43,Unkown,Cash on Delivery,Completed,440.18
+C0869,Rahul Khan,rahul.khan97@yahoo.com,9151547469,,Canada,Vancouver,37,Male,Cash on Delivery,Completed,1486.83
+C0870,Karthik Singh,karthik.singh22@gmail.com,7252762520,14-05-2025,India,Hyderabad,43,Unkown,Credit Card,Refunded,1306.3
+C0871,Sneha Brown,sneha.brown95@yahoo.com,9730220994,16-07-2022,Canada,Vancouver,18,Male,Credit Card,Completed,
+C0872,Meera Iyer,meera.iyer30@gmail.com,9644058355,04-10-2024,Canada,Vancouver,45,Female,Debit Card,Pending,79.02
+C0873,Rahul Brown,rahul.brown33@gmail.com,Unknown,29-12-2024,USA,New York,30,Female,PayPal,Refunded,51.4
+C0874,Unkown,Unkown,6145676776,15-01-2025,India,Chennai,23,Female,UPI,Refunded,1474.08
+C0875,Vikram Smith,vikram.smith33@outlook.com,7095928489,29-11-2022,USA,Seattle,37,Female,Cash on Delivery,Unkown,
+C0876,Sarah Patel,sarah.patel92@company.in,7565239188,10-08-2023,Canada,Unkown,37,Other,Debit Card,Refunded,802.9
+C0877,Priya Reddy,priya.reddy48@gmail.com,9233570444,05-12-2023,UK,London,34,Female,Debit Card,Cancelled,269.69
+C0878,Emily Johnson,emily.johnson49@yahoo.com,7464299872,09-09-2022,UK,London,25,Other,Debit Card,Cancelled,1468.16
+C0879,Michael Naidu,michael.naidu60@company.in,8378624301,06-06-2022,USA,New York,38,Male,PayPal,Refunded,43.44
+C0880,John Khan,john.khan2@gmail.com,8023160040,21-06-2022,India,Chennai,67,Female,Cash on Delivery,Pending,528.24
+C0881,Sarah Gupta,sarah.gupta5@gmail.com,9238615952,07-10-2022,Canada,Vancouver,30,Other,PayPal,Refunded,389.8
+C0882,Sarah Smith,sarah.smith56@gmail.com,6504390356,24-03-2022,USA,Austin,64,Male,Cash on Delivery,Refunded,556.61
+C0883,Priya Reddy,priya.reddy22@yahoo.com,8940859356,01-08-2022,UK,London,59,Male,UPI,Pending,791.96
+C0884,Divya Khan,divya.khan43@gmail.com,6175227929,02-02-2025,UK,Manchester,39,Female,Debit Card,Refunded,1245.03
+C0885,Arjun Brown,arjun.brown17@outlook.com,7976352946,20-08-2024,India,Bengaluru,54,Male,Debit Card,Cancelled,1333.97
+C0886,Ananya Smith,ananya.smith85@yahoo.com,7330854418,09-06-2025,Canada,Vancouver,20,Male,PayPal,Pending,
+C0887,Lakshmi Khan,lakshmi.khan31@gmail.com,6954351102,02-01-2024,Canada,Vancouver,47,Male,UPI,Pending,526.15
+C0888,John Kumar,john.kumar3@yahoo.com,6448762164,15-05-2024,UK,London,19,Unkown,PayPal,Pending,26.24
+C0889,Sarah Patel,sarah.patel21@outlook.com,Unknown,19-02-2025,Canada,Vancouver,52,Female,UPI,Cancelled,905.87
+C0890,Unkown,kavya.kumar9@company.in,6936725028,11-12-2023,UK,Manchester,66,Male,Credit Card,Refunded,1147.93
+C0891,Vikram Brown,vikram.brown45@gmail.com,9785150668,15-08-2023,India,Chennai,29,Female,PayPal,Cancelled,973.16
+C0892,Arjun Iyer,arjun.iyer41@gmail.com,7245182569,27-05-2022,India,Bengaluru,25,Male,Credit Card,Refunded,332.53
+C0893,Sarah Iyer,sarah.iyer29@gmail.com,8916423012,17-06-2023,USA,New York,49,Male,Credit Card,Refunded,1064.39
+C0894,Suresh Sharma,suresh.sharma25@gmail.com,8298410400,27-02-2023,Canada,Toronto,40,Other,Debit Card,Pending,963.55
+C0895,Lakshmi Reddy,lakshmi.reddy2@yahoo.com,9218531112,29-05-2024,India,Mumbai,43,Female,PayPal,Pending,1286.14
+C0896,John Singh,john.singh26@gmail.com,9535313245,21-09-2025,UK,London,63,Male,PayPal,Completed,903.82
+C0897,Rohan Naidu,rohan.naidu65@outlook.com,6514977764,31-10-2024,UK,Manchester,64,Male,Credit Card,Cancelled,360.75
+C0898,Michael Smith,michael.smith72@outlook.com,Unknown,09-06-2023,India,Hyderabad,36,Other,UPI,Cancelled,1111.83
+C0899,Aarav Reddy,aarav.reddy82@gmail.com,6720203388,,UK,London,42,Male,Cash on Delivery,Refunded,1008.68
+C0900,Imran Smith,imran.smith45@gmail.com,9054673931,11-08-2023,India,Mumbai,38,Female,Cash on Delivery,Cancelled,1259.3
+C0901,Rohan Patel,rohan.patel55@gmail.com,Unknown,07-11-2024,India,Hyderabad,35,Female,Credit Card,Completed,1342.41
+C0902,Michael Patel,michael.patel14@yahoo.com,7054284251,24-03-2025,India,Mumbai,51,Female,Debit Card,Cancelled,570.05
+C0903,Vikram Patel,vikram.patel50@gmail.com,6340399783,05-12-2022,Canada,Vancouver,58,Female,Debit Card,Completed,1263.11
+C0904,Ananya Sharma,ananya.sharma40@company.in,Unknown,03-04-2023,Canada,Toronto,38,Other,Debit Card,Pending,
+C0905,Sarah Davis,sarah.davis85@yahoo.com,Unknown,11-08-2024,USA,Austin,39,Male,UPI,Pending,100.9
+C0906,Rohan Johnson,rohan.johnson30@company.in,Unknown,26-05-2024,Canada,Vancouver,22,Male,PayPal,Completed,433.84
+C0907,Emily Gupta,emily.gupta80@outlook.com,7638803242,20-04-2022,USA,New York,67,Female,Cash on Delivery,Pending,511.81
+C0908,Arjun Khan,arjun.khan68@gmail.com,7328062539,04-06-2025,Canada,Toronto,30,Male,UPI,Cancelled,
+C0909,Karthik Naidu,karthik.naidu25@outlook.com,6689621325,01-04-2025,USA,Austin,43,Male,Cash on Delivery,Cancelled,1220.92
+C0910,Emily Khan,emily.khan51@gmail.com,8601726280,05-03-2023,USA,Seattle,60,Male,Cash on Delivery,Cancelled,
+C0911,Sneha Iyer,sneha.iyer56@yahoo.com,8796229511,14-01-2024,Canada,Toronto,27,Male,Credit Card,Refunded,1256.44
+C0912,Sarah Smith,sarah.smith93@gmail.com,Unknown,23-07-2023,UK,Unkown,26,Male,Cash on Delivery,Cancelled,113.52
+C0913,Aarav Kumar,aarav.kumar57@gmail.com,8795541298,01-04-2023,India,Chennai,39,Other,Unkown,Pending,987.3
+C0914,Sarah Iyer,sarah.iyer42@gmail.com,8303250274,06-10-2022,USA,Austin,32,Female,Cash on Delivery,Cancelled,421.44
+C0915,Emily Brown,emily.brown29@gmail.com,6850504871,16-07-2022,UK,London,58,Female,Credit Card,Pending,434.79
+C0916,Arjun Davis,arjun.davis91@outlook.com,9374496660,29-10-2024,India,Kurnool,51,Male,PayPal,Cancelled,1033.27
+C0917,Michael Smith,michael.smith28@company.in,9526684803,07-02-2022,UK,London,41,Female,Debit Card,Refunded,209.41
+C0918,Divya Brown,divya.brown80@outlook.com,Unknown,,USA,New York,41,Female,UPI,Refunded,67.44
+C0919,Suresh Davis,suresh.davis30@company.in,7689108041,20-09-2025,UK,Manchester,67,Male,PayPal,Pending,304.85
+C0920,Michael Gupta,michael.gupta65@gmail.com,9712657281,24-05-2022,India,Chennai,44,Female,Debit Card,Cancelled,182.48
+C0921,Kavya Patel,kavya.patel91@outlook.com,6694481440,20-12-2024,Canada,Toronto,44,Other,PayPal,Refunded,484.69
+C0922,Ananya Naidu,ananya.naidu59@yahoo.com,8197366547,21-09-2024,UK,Manchester,34,Male,PayPal,Completed,865.71
+C0923,Unkown,suresh.sharma29@gmail.com,9775270712,01-05-2022,India,Chennai,28,Unkown,PayPal,Pending,74.88
+C0924,Lakshmi Khan,Unkown,Unknown,28-05-2022,Canada,Toronto,40,Female,Cash on Delivery,Unkown,597.42
+C0925,Fatima Patel,fatima.patel99@gmail.com,8324216943,18-06-2024,India,Hyderabad,63,Male,Credit Card,Completed,655.96
+C0926,Emily Iyer,emily.iyer48@yahoo.com,Unknown,21-06-2024,UK,Manchester,38,Unkown,Debit Card,Cancelled,21.65
+C0927,Kavya Reddy,kavya.reddy10@company.in,7445801976,17-11-2023,Canada,Vancouver,51,Male,UPI,Completed,330.73
+C0928,Imran Sharma,imran.sharma35@company.in,8374812681,,India,Kurnool,28,Male,Credit Card,Completed,
+C0929,Rohan Sharma,rohan.sharma44@gmail.com,6213116694,06-08-2025,India,Delhi,63,Male,Debit Card,Refunded,779.73
+C0930,Arjun Gupta,Unkown,8657166578,17-05-2023,UK,Manchester,55,Unkown,UPI,Cancelled,340.02
+C0931,Rohan Patel,rohan.patel3@gmail.com,9139557458,05-02-2025,USA,New York,35,Female,UPI,Pending,1376.6
+C0932,John Reddy,john.reddy79@gmail.com,9223683127,29-01-2024,USA,New York,57,Male,Cash on Delivery,Cancelled,998.13
+C0933,Rahul Davis,rahul.davis87@gmail.com,9353414391,06-02-2022,Canada,Vancouver,54,Female,Debit Card,Refunded,204.61
+C0934,Priya Johnson,priya.johnson38@gmail.com,9779533422,17-08-2024,India,Kurnool,50,Male,Cash on Delivery,Pending,1270.05
+C0935,John Rao,john.rao13@outlook.com,9878842047,11-04-2023,UK,London,45,Female,Cash on Delivery,Refunded,1067.91
+C0936,Rohan Singh,rohan.singh92@gmail.com,Unknown,30-06-2024,Canada,Toronto,36,Female,Credit Card,Cancelled,969.04
+C0937,Michael Iyer,michael.iyer87@gmail.com,6001428669,08-07-2025,UK,Manchester,63,Male,Credit Card,Refunded,949.34
+C0938,John Sharma,john.sharma81@outlook.com,9652948305,13-07-2023,India,Delhi,48,Male,Debit Card,Completed,239.16
+C0939,Arjun Johnson,arjun.johnson69@gmail.com,8077128061,19-01-2022,USA,Austin,31,Other,PayPal,Refunded,452.84
+C0940,Ananya Singh,ananya.singh55@company.in,8255876735,14-04-2022,USA,Austin,33,Female,Credit Card,Pending,330.95
+C0941,Sarah Patel,sarah.patel99@company.in,6956630063,03-09-2023,Canada,Toronto,46,Male,UPI,Completed,387.22
+C0942,Kavya Brown,kavya.brown96@yahoo.com,9777055489,15-09-2024,USA,Seattle,41,Female,Credit Card,Refunded,1383.26
+C0943,Sneha Patel,sneha.patel61@outlook.com,9712918425,08-06-2024,USA,Austin,28,Male,PayPal,Refunded,1137.98
+C0944,Lakshmi Patel,lakshmi.patel99@yahoo.com,9897153596,02-04-2023,India,Delhi,63,Unkown,Cash on Delivery,Refunded,1197.08
+C0945,Priya Rao,priya.rao41@gmail.com,6580108867,20-12-2023,India,Mumbai,70,Female,PayPal,Completed,1126.5
+C0946,Meera Davis,meera.davis96@company.in,9281915023,,Unknown,Vancouver,32,Male,Debit Card,Cancelled,867.85
+C0947,Sarah Reddy,sarah.reddy58@yahoo.com,6747366539,17-03-2025,UK,Manchester,44,Female,UPI,Cancelled,801.29
+C0948,Michael Kumar,michael.kumar33@gmail.com,9756191898,04-08-2025,USA,Unkown,35,Male,Cash on Delivery,Pending,240.93
+C0949,Priya Kumar,priya.kumar36@outlook.com,7306533535,,India,Mumbai,36,Male,Cash on Delivery,Pending,1110.38
+C0950,Fatima Patel,fatima.patel7@company.in,Unknown,06-08-2025,Canada,Vancouver,47,Unkown,UPI,Completed,
